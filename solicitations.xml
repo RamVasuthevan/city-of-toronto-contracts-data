@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<viewentries timestamp="20231128T000604,88Z" toplevelentries="39">
+<viewentries timestamp="20231129T000611,00Z" toplevelentries="39">
 <viewentry position="1" unid="4C1BCF3BEA95E43085258A6A006208A1" noteid="58FF6" siblings="39">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
@@ -418,7 +418,7 @@
 <entrydata columnnumber="7" name="ShowDatePosted">
 <text>November 3, 2023</text></entrydata>
 <entrydata columnnumber="8" name="$4">
-<text>November 28, 2023</text></entrydata>
+<text>[&lt;font color=red&gt;&lt;b&gt;November 28, 2023 12:00 noon&lt;/b&gt;]</text></entrydata>
 <entrydata columnnumber="9" name="$8">
 <text>Attachment</text></entrydata>
 <entrydata columnnumber="10" name="SiteMeeting">
@@ -480,7 +480,47 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;862D285BB21BAB1485258A6300678807/$file/NOIP Doc4294367814.pdf&quot;&gt;]NOIP Doc4294367814.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (237 Kbytes) 11/10/2023</text></entrydata>
 </viewentry>
-<viewentry position="13" unid="087E1EBFF2DA2F6485258A6E0058A228" noteid="5900A" siblings="39">
+<viewentry position="13" unid="888A7423612916F485258A7500562DFA" noteid="59056" siblings="39">
+<entrydata columnnumber="0" name="Commodity">
+<text>Construction Services</text></entrydata>
+<entrydata columnnumber="1" name="CommodityType">
+<text>Facilities renovations</text></entrydata>
+<entrydata columnnumber="2" name="CallNumber">
+<text> Doc4263621812</text></entrydata>
+<entrydata columnnumber="3" name="Type">
+<text>Request for Quotation - Prequalification</text></entrydata>
+<entrydata columnnumber="4" name="ShortDescription">
+<text>Doc4263621812 Request for Supplier Qualifications for Heritage Contractor Roster</text></entrydata>
+<entrydata columnnumber="5" name="Description">
+<textlist><text>1.This Request for Supplier Qualifications (&quot;RFSQ&quot;) is an invitation by the City of Toronto (&quot;the City&quot;) to prospective Respondents to qualify for future eligibility to provide Heritage Construction Services as further described in Appendix D Section 2 – The Deliverables (&quot;the Deliverables&quot;). </text><text>2. To prequalify vendors for multiple calls for similar work</text><text>ARIBA LINK:  https://discovery.ariba.com/rfx/18130911</text></textlist></entrydata>
+<entrydata columnnumber="6" name="$12">
+<textlist><text>Summary</text></textlist></entrydata>
+<entrydata columnnumber="7" name="ShowDatePosted">
+<text>November 28, 2023</text></entrydata>
+<entrydata columnnumber="8" name="$4">
+<text>January 3, 2024</text></entrydata>
+<entrydata columnnumber="9" name="$8">
+<text></text></entrydata>
+<entrydata columnnumber="10" name="SiteMeeting">
+<text></text></entrydata>
+<entrydata columnnumber="11" name="ShowBuyerNameList">
+<text>Breaugh, Meghan</text></entrydata>
+<entrydata columnnumber="12" name="BuyerPhoneShow">
+<text>416-338-5573</text></entrydata>
+<entrydata columnnumber="13" name="BuyerEmailShow">
+<text>Meghan.Breaugh@toronto.ca</text></entrydata>
+<entrydata columnnumber="14" name="Division">
+<text></text></entrydata>
+<entrydata columnnumber="15" name="PickFee">
+<text></text></entrydata>
+<entrydata columnnumber="16" name="SecurityDeposit">
+<text></text></entrydata>
+<entrydata columnnumber="17" name="BuyerLocationShow">
+<text>City Hall, 19th Floor, West Tower</text></entrydata>
+<entrydata columnnumber="18" name="AllAttachments">
+<text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;888A7423612916F485258A7500562DFA/$file/Doc4263621812 NOIP.pdf&quot;&gt;]Doc4263621812 NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (343 Kbytes) 11/28/2023</text></entrydata>
+</viewentry>
+<viewentry position="14" unid="087E1EBFF2DA2F6485258A6E0058A228" noteid="5900A" siblings="39">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -520,7 +560,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;087E1EBFF2DA2F6485258A6E0058A228/$file/NOIP Doc4273922673.pdf&quot;&gt;]NOIP Doc4273922673.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (234 Kbytes) 11/21/2023</text></entrydata>
 </viewentry>
-<viewentry position="14" unid="50AEDC9E5999E70285258A610055D5E0" noteid="58FBA" siblings="39">
+<viewentry position="15" unid="50AEDC9E5999E70285258A610055D5E0" noteid="58FBA" siblings="39">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -559,46 +599,6 @@
 <text>City Hall, 17th Floor West Tower</text></entrydata>
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;50AEDC9E5999E70285258A610055D5E0/$file/Notice of Intended Procurement_Doc4279568020.pdf&quot;&gt;]Notice of Intended Procurement_Doc4279568020.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (135 Kbytes) 11/08/2023</text></entrydata>
-</viewentry>
-<viewentry position="15" unid="C2C0840586F7540985258A5F00688509" noteid="58FA6" siblings="39">
-<entrydata columnnumber="0" name="Commodity">
-<text>Construction Services</text></entrydata>
-<entrydata columnnumber="1" name="CommodityType">
-<text></text></entrydata>
-<entrydata columnnumber="2" name="CallNumber">
-<text>Doc4288902389</text></entrydata>
-<entrydata columnnumber="3" name="Type">
-<text>Tender</text></entrydata>
-<entrydata columnnumber="4" name="ShortDescription">
-<text>Request for Tenders for Spadina Museum Garage Renovation and Site Accessibility Improvements  </text></entrydata>
-<entrydata columnnumber="5" name="Description">
-<textlist><text>Spadina Museum – Garage Rehabilitation and Site Accessibility.</text><text>ARIBA ACCESS: https://discovery.ariba.com/rfx/17929144</text></textlist></entrydata>
-<entrydata columnnumber="6" name="$12">
-<textlist><text>Summary</text></textlist></entrydata>
-<entrydata columnnumber="7" name="ShowDatePosted">
-<text>November 6, 2023</text></entrydata>
-<entrydata columnnumber="8" name="$4">
-<text>[&lt;font color=red&gt;&lt;b&gt;November 27, 2023 12:00 noon&lt;/b&gt;]</text></entrydata>
-<entrydata columnnumber="9" name="$8">
-<text></text></entrydata>
-<entrydata columnnumber="10" name="SiteMeeting">
-<text>The mandatory site meeting will take place at 1:30PM local time on November 13, 2023 at Spadina House, Toronto. Meet at the garage building, located on the north end of the Spadina Museum at 285 Spadina Road. Site meetings will not be available at any other times.</text></entrydata>
-<entrydata columnnumber="11" name="ShowBuyerNameList">
-<text>Breaugh, Meghan</text></entrydata>
-<entrydata columnnumber="12" name="BuyerPhoneShow">
-<text>416-338-5573</text></entrydata>
-<entrydata columnnumber="13" name="BuyerEmailShow">
-<text>Meghan.Breaugh@toronto.ca</text></entrydata>
-<entrydata columnnumber="14" name="Division">
-<text>Economic Development &amp; Culture</text></entrydata>
-<entrydata columnnumber="15" name="PickFee">
-<text></text></entrydata>
-<entrydata columnnumber="16" name="SecurityDeposit">
-<text></text></entrydata>
-<entrydata columnnumber="17" name="BuyerLocationShow">
-<text>City Hall, 19th Floor, West Tower</text></entrydata>
-<entrydata columnnumber="18" name="AllAttachments">
-<text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;C2C0840586F7540985258A5F00688509/$file/Doc4288902389 NOIP.pdf&quot;&gt;]Doc4288902389 NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (293 Kbytes) 11/06/2023</text></entrydata>
 </viewentry>
 <viewentry position="16" unid="2D2521CF34B7339985258A6E006A5F62" noteid="59016" siblings="39">
 <entrydata columnnumber="0" name="Commodity">
@@ -819,7 +819,7 @@
 <entrydata columnnumber="7" name="ShowDatePosted">
 <text>November 2, 2023</text></entrydata>
 <entrydata columnnumber="8" name="$4">
-<text>November 28, 2023</text></entrydata>
+<text>[&lt;font color=red&gt;&lt;b&gt;November 28, 2023 12:00 noon&lt;/b&gt;]</text></entrydata>
 <entrydata columnnumber="9" name="$8">
 <text></text></entrydata>
 <entrydata columnnumber="10" name="SiteMeeting">
