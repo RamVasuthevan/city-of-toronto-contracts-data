@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<viewentries timestamp="20231216T000604,74Z" toplevelentries="36">
-<viewentry position="1" unid="3C4F7F3D16D2476085258A7100743DCE" noteid="5903E" siblings="36">
+<viewentries timestamp="20231217T142011,67Z" toplevelentries="33">
+<viewentry position="1" unid="3C4F7F3D16D2476085258A7100743DCE" noteid="5903E" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -40,7 +40,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;3C4F7F3D16D2476085258A7100743DCE/$file/Doc3987477359_Humber_NOIP.pdf&quot;&gt;]Doc3987477359_Humber_NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (112 Kbytes) 11/24/2023</text></entrydata>
 </viewentry>
-<viewentry position="2" unid="13C2F8B5C2953FF085258A69007626F5" noteid="58FEA" siblings="36">
+<viewentry position="2" unid="13C2F8B5C2953FF085258A69007626F5" noteid="58FEA" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -80,7 +80,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>No attachments</text></entrydata>
 </viewentry>
-<viewentry position="3" unid="65D32808790DAC8085258A6D0067F0E2" noteid="59006" siblings="36">
+<viewentry position="3" unid="65D32808790DAC8085258A6D0067F0E2" noteid="59006" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -120,7 +120,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;65D32808790DAC8085258A6D0067F0E2/$file/NOIP - Doc4276974747 .pdf&quot;&gt;]NOIP - Doc4276974747 .pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (81 Kbytes) 12/01/2023</text></entrydata>
 </viewentry>
-<viewentry position="4" unid="83E123CA294656A685258A6E005EA0A4" noteid="5900E" siblings="36">
+<viewentry position="4" unid="83E123CA294656A685258A6E005EA0A4" noteid="5900E" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -160,47 +160,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;83E123CA294656A685258A6E005EA0A4/$file/Doc4227642481 - NOIP.pdf&quot;&gt;]Doc4227642481 - NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (146 Kbytes) 11/21/2023</text></entrydata>
 </viewentry>
-<viewentry position="5" unid="6A0152415A734FF685258A7100509829" noteid="5902E" siblings="36">
-<entrydata columnnumber="0" name="Commodity">
-<text>Construction Services</text></entrydata>
-<entrydata columnnumber="1" name="CommodityType">
-<text>Construction Services</text></entrydata>
-<entrydata columnnumber="2" name="CallNumber">
-<text></text></entrydata>
-<entrydata columnnumber="3" name="Type">
-<text>Tender</text></entrydata>
-<entrydata columnnumber="4" name="ShortDescription">
-<text>Request for Tender for Road Resurfacing on Humber College Blvd from Lynmont Rd to John Garland Blvd, including Slane Crt</text></entrydata>
-<entrydata columnnumber="5" name="Description">
-<text>Request for Tender for Road Resurfacing on Humber College Blvd from Lynmont Rd to John Garland Blvd, including Slane Crt</text></entrydata>
-<entrydata columnnumber="6" name="$12">
-<textlist><text>Summary</text></textlist></entrydata>
-<entrydata columnnumber="7" name="ShowDatePosted">
-<text>November 24, 2023</text></entrydata>
-<entrydata columnnumber="8" name="$4">
-<text>December 16, 2023</text></entrydata>
-<entrydata columnnumber="9" name="$8">
-<text>Attachment</text></entrydata>
-<entrydata columnnumber="10" name="SiteMeeting">
-<text></text></entrydata>
-<entrydata columnnumber="11" name="ShowBuyerNameList">
-<text>Lakhani, Hussain</text></entrydata>
-<entrydata columnnumber="12" name="BuyerPhoneShow">
-<text>416-397-4806</text></entrydata>
-<entrydata columnnumber="13" name="BuyerEmailShow">
-<text>hussain.lakhani@toronto.ca</text></entrydata>
-<entrydata columnnumber="14" name="Division">
-<text>Engineering &amp; Construction Services - Engineering Services</text></entrydata>
-<entrydata columnnumber="15" name="PickFee">
-<text></text></entrydata>
-<entrydata columnnumber="16" name="SecurityDeposit">
-<text></text></entrydata>
-<entrydata columnnumber="17" name="BuyerLocationShow">
-<text>100 Queen St. W, 19th Floor</text></entrydata>
-<entrydata columnnumber="18" name="AllAttachments">
-<text>No attachments</text></entrydata>
-</viewentry>
-<viewentry position="6" unid="888A7423612916F485258A7500562DFA" noteid="59056" siblings="36">
+<viewentry position="5" unid="888A7423612916F485258A7500562DFA" noteid="59056" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -240,7 +200,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;888A7423612916F485258A7500562DFA/$file/Doc4263621812 NOIP.pdf&quot;&gt;]Doc4263621812 NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (343 Kbytes) 11/28/2023</text></entrydata>
 </viewentry>
-<viewentry position="7" unid="70ED5FB396DF381D85258A85005D1D60" noteid="5908E" siblings="36">
+<viewentry position="6" unid="70ED5FB396DF381D85258A85005D1D60" noteid="5908E" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -280,7 +240,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;70ED5FB396DF381D85258A85005D1D60/$file/NOIP Doc4339591498.pdf&quot;&gt;]NOIP Doc4339591498.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (240 Kbytes) 12/14/2023</text></entrydata>
 </viewentry>
-<viewentry position="8" unid="087E1EBFF2DA2F6485258A6E0058A228" noteid="5900A" siblings="36">
+<viewentry position="7" unid="087E1EBFF2DA2F6485258A6E0058A228" noteid="5900A" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -320,7 +280,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;087E1EBFF2DA2F6485258A6E0058A228/$file/NOIP Doc4273922673.pdf&quot;&gt;]NOIP Doc4273922673.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (234 Kbytes) 11/21/2023</text></entrydata>
 </viewentry>
-<viewentry position="9" unid="AE828AB6A9FCE62285258A85007A40F4" noteid="59092" siblings="36">
+<viewentry position="8" unid="AE828AB6A9FCE62285258A85007A40F4" noteid="59092" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -360,7 +320,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;AE828AB6A9FCE62285258A85007A40F4/$file/NOIP Doc4332801004docx.pdf&quot;&gt;]NOIP Doc4332801004docx.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (103 Kbytes) 12/14/2023</text></entrydata>
 </viewentry>
-<viewentry position="10" unid="50AEDC9E5999E70285258A610055D5E0" noteid="58FBA" siblings="36">
+<viewentry position="9" unid="50AEDC9E5999E70285258A610055D5E0" noteid="58FBA" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -400,7 +360,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;50AEDC9E5999E70285258A610055D5E0/$file/Notice of Intended Procurement_Doc4279568020.pdf&quot;&gt;]Notice of Intended Procurement_Doc4279568020.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (135 Kbytes) 11/08/2023</text></entrydata>
 </viewentry>
-<viewentry position="11" unid="57CE8049EE97ECDB85258A82004AB92C" noteid="59082" siblings="36">
+<viewentry position="10" unid="57CE8049EE97ECDB85258A82004AB92C" noteid="59082" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -440,7 +400,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;57CE8049EE97ECDB85258A82004AB92C/$file/Doc4328129808 - NOIP.pdf&quot;&gt;]Doc4328129808 - NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (282 Kbytes) 12/11/2023</text></entrydata>
 </viewentry>
-<viewentry position="12" unid="B5DCAAE14CA3613B85258A86005D2FBF" noteid="5909A" siblings="36">
+<viewentry position="11" unid="B5DCAAE14CA3613B85258A86005D2FBF" noteid="5909A" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Goods and Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -480,7 +440,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;B5DCAAE14CA3613B85258A86005D2FBF/$file/Doc4326514304 - NOIP.pdf&quot;&gt;]Doc4326514304 - NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (386 Kbytes) 12/15/2023</text></entrydata>
 </viewentry>
-<viewentry position="13" unid="E86F944E66B63A5285258A7D0049EFAE" noteid="59072" siblings="36">
+<viewentry position="12" unid="E86F944E66B63A5285258A7D0049EFAE" noteid="59072" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Goods and Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -520,7 +480,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;E86F944E66B63A5285258A7D0049EFAE/$file/NOIP - Doc4320141834.pdf&quot;&gt;]NOIP - Doc4320141834.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (149 Kbytes) 12/07/2023</text></entrydata>
 </viewentry>
-<viewentry position="14" unid="FB00B982EB5F9DD785258A86007162DB" noteid="5909E" siblings="36">
+<viewentry position="13" unid="FB00B982EB5F9DD785258A86007162DB" noteid="5909E" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Goods and Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -560,7 +520,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;FB00B982EB5F9DD785258A86007162DB/$file/Doc4352407440 _nRFP_Elevator Maintenance_NOIP.pdf&quot;&gt;]Doc4352407440 _nRFP_Elevator Maintenance_NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (110 Kbytes) 12/15/2023</text></entrydata>
 </viewentry>
-<viewentry position="15" unid="7F1193A328944D6E85258A8500556B77" noteid="5908A" siblings="36">
+<viewentry position="14" unid="7F1193A328944D6E85258A8500556B77" noteid="5908A" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Goods and Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -600,7 +560,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;7F1193A328944D6E85258A8500556B77/$file/Doc4352407440 _nRFP_Elevator Maintenance_NOIP.pdf&quot;&gt;]Doc4352407440 _nRFP_Elevator Maintenance_NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (110 Kbytes) 12/14/2023</text></entrydata>
 </viewentry>
-<viewentry position="16" unid="2D2521CF34B7339985258A6E006A5F62" noteid="59016" siblings="36">
+<viewentry position="15" unid="2D2521CF34B7339985258A6E006A5F62" noteid="59016" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Goods and Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -641,7 +601,7 @@
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;2D2521CF34B7339985258A6E006A5F62/$file/Summary NOIP Doc4316684665.pdf&quot;&gt;]Summary NOIP Doc4316684665.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (110 Kbytes) 11/21/2023
 [&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;2D2521CF34B7339985258A6E006A5F62/$file/NOIP Doc4316684665.pdf&quot;&gt;]NOIP Doc4316684665.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (110 Kbytes) 11/21/2023</text></entrydata>
 </viewentry>
-<viewentry position="17" unid="A1DD81AEBB5AC17085258A86005C770B" noteid="59096" siblings="36">
+<viewentry position="16" unid="A1DD81AEBB5AC17085258A86005C770B" noteid="59096" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Goods and Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -681,7 +641,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;A1DD81AEBB5AC17085258A86005C770B/$file/NOIP- Doc4291231363.pdf&quot;&gt;]NOIP- Doc4291231363.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (120 Kbytes) 12/15/2023</text></entrydata>
 </viewentry>
-<viewentry position="18" unid="63CC757E3AFE6A4385258A77005AD948" noteid="5905A" siblings="36">
+<viewentry position="17" unid="63CC757E3AFE6A4385258A77005AD948" noteid="5905A" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Goods and Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -721,7 +681,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>No attachments</text></entrydata>
 </viewentry>
-<viewentry position="19" unid="8B1779D3898F97A585258A7800709E7C" noteid="59066" siblings="36">
+<viewentry position="18" unid="8B1779D3898F97A585258A7800709E7C" noteid="59066" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Goods and Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -761,7 +721,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;8B1779D3898F97A585258A7800709E7C/$file/Doc4239389649_NOIP.pdf&quot;&gt;]Doc4239389649_NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (133 Kbytes) 12/01/2023</text></entrydata>
 </viewentry>
-<viewentry position="20" unid="38A6B3273F7D3FFE85258A6F004E52F7" noteid="5901A" siblings="36">
+<viewentry position="19" unid="38A6B3273F7D3FFE85258A6F004E52F7" noteid="5901A" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Goods and Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -803,7 +763,7 @@
 [&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;38A6B3273F7D3FFE85258A6F004E52F7/$file/Doc4065677598_ Addendum No 1.pdf&quot;&gt;]Doc4065677598_ Addendum No 1.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (157 Kbytes) 12/14/2023
 [&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;38A6B3273F7D3FFE85258A6F004E52F7/$file/Doc4065677598_ Addendum No 2.pdf&quot;&gt;]Doc4065677598_ Addendum No 2.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (155 Kbytes) 12/14/2023</text></entrydata>
 </viewentry>
-<viewentry position="21" unid="9D2B6ACA51BBA0DD85258A6D005A691A" noteid="59002" siblings="36">
+<viewentry position="20" unid="9D2B6ACA51BBA0DD85258A6D005A691A" noteid="59002" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Goods and Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -843,7 +803,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;9D2B6ACA51BBA0DD85258A6D005A691A/$file/NOIP Doc4017497897 Rev1.pdf&quot;&gt;]NOIP Doc4017497897 Rev1.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (189 Kbytes) 12/11/2023</text></entrydata>
 </viewentry>
-<viewentry position="22" unid="60FFA9CC314A6EB985258A7C00564DBC" noteid="5906E" siblings="36">
+<viewentry position="21" unid="60FFA9CC314A6EB985258A7C00564DBC" noteid="5906E" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Goods and Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -884,7 +844,7 @@
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;60FFA9CC314A6EB985258A7C00564DBC/$file/NOIP Summary Doc4300384558.pdf&quot;&gt;]NOIP Summary Doc4300384558.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (99 Kbytes) 12/05/2023
 [&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;60FFA9CC314A6EB985258A7C00564DBC/$file/NOIP Doc4300384558.pdf&quot;&gt;]NOIP Doc4300384558.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (150 Kbytes) 12/05/2023</text></entrydata>
 </viewentry>
-<viewentry position="23" unid="AB7FA32C4497384285258A83005C87C4" noteid="59086" siblings="36">
+<viewentry position="22" unid="AB7FA32C4497384285258A83005C87C4" noteid="59086" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Goods and Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -924,7 +884,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;AB7FA32C4497384285258A83005C87C4/$file/NOIP_ Doc4348716584.pdf&quot;&gt;]NOIP_ Doc4348716584.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (150 Kbytes) 12/13/2023</text></entrydata>
 </viewentry>
-<viewentry position="24" unid="24E20F2C2288F8EA85258A710068E3E8" noteid="59036" siblings="36">
+<viewentry position="23" unid="24E20F2C2288F8EA85258A710068E3E8" noteid="59036" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Professional Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -964,7 +924,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;24E20F2C2288F8EA85258A710068E3E8/$file/Doc4209118302 NOIP.pdf&quot;&gt;]Doc4209118302 NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (288 Kbytes) 11/24/2023</text></entrydata>
 </viewentry>
-<viewentry position="25" unid="FBFBAF372BC8AA7485258A7800797D5D" noteid="5906A" siblings="36">
+<viewentry position="24" unid="FBFBAF372BC8AA7485258A7800797D5D" noteid="5906A" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Professional Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -1004,7 +964,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;FBFBAF372BC8AA7485258A7800797D5D/$file/Doc4323955417_NOIP.pdf&quot;&gt;]Doc4323955417_NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (143 Kbytes) 12/01/2023</text></entrydata>
 </viewentry>
-<viewentry position="26" unid="E4961209581C90B285258A7E00650202" noteid="5907A" siblings="36">
+<viewentry position="25" unid="E4961209581C90B285258A7E00650202" noteid="5907A" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Professional Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -1044,7 +1004,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;E4961209581C90B285258A7E00650202/$file/Notice of Intended Procurement_Doc4162156261.pdf&quot;&gt;]Notice of Intended Procurement_Doc4162156261.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (143 Kbytes) 12/07/2023</text></entrydata>
 </viewentry>
-<viewentry position="27" unid="9F95CC1C9AB466E385258A7700691107" noteid="5905E" siblings="36">
+<viewentry position="26" unid="9F95CC1C9AB466E385258A7700691107" noteid="5905E" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Professional Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -1084,7 +1044,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;9F95CC1C9AB466E385258A7700691107/$file/Doc4223274309_RFSQ_NOIP.pdf&quot; target=_new&gt;]Doc4223274309_RFSQ_NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (111 Kbytes) 11/30/2023</text></entrydata>
 </viewentry>
-<viewentry position="28" unid="CCD041F614F4E42485258A6F005B396E" noteid="5901E" siblings="36">
+<viewentry position="27" unid="CCD041F614F4E42485258A6F005B396E" noteid="5901E" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Professional Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -1124,7 +1084,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;CCD041F614F4E42485258A6F005B396E/$file/Doc4241423110 - NOIP.pdf&quot;&gt;]Doc4241423110 - NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (296 Kbytes) 11/22/2023</text></entrydata>
 </viewentry>
-<viewentry position="29" unid="9F643F85A13B3F7B85258A78006A3F95" noteid="59062" siblings="36">
+<viewentry position="28" unid="9F643F85A13B3F7B85258A78006A3F95" noteid="59062" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Professional Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -1164,7 +1124,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;9F643F85A13B3F7B85258A78006A3F95/$file/Doc4302123875 - NOIP.pdf&quot;&gt;]Doc4302123875 - NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (339 Kbytes) 12/01/2023</text></entrydata>
 </viewentry>
-<viewentry position="30" unid="EC734ECD0942EC5385258A7F0059AC63" noteid="5907E" siblings="36">
+<viewentry position="29" unid="EC734ECD0942EC5385258A7F0059AC63" noteid="5907E" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Professional Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -1204,7 +1164,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;EC734ECD0942EC5385258A7F0059AC63/$file/NOIP_Doc4316606042.pdf&quot;&gt;]NOIP_Doc4316606042.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (142 Kbytes) 12/08/2023</text></entrydata>
 </viewentry>
-<viewentry position="31" unid="DDF1B4A617B2967F85258A1C0057875A" noteid="58E8E" siblings="36">
+<viewentry position="30" unid="DDF1B4A617B2967F85258A1C0057875A" noteid="58E8E" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Professional Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -1244,47 +1204,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;DDF1B4A617B2967F85258A1C0057875A/$file/NOIP-Bridges for Gardiner Section 3 - Revised_  .pdf&quot;&gt;]NOIP-Bridges for Gardiner Section 3 - Revised_  .pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (135 Kbytes) 12/12/2023</text></entrydata>
 </viewentry>
-<viewentry position="32" unid="F1F8826569562F8C85258A670069A3CF" noteid="58FDA" siblings="36">
-<entrydata columnnumber="0" name="Commodity">
-<text>Professional Services</text></entrydata>
-<entrydata columnnumber="1" name="CommodityType">
-<text>Consulting Services</text></entrydata>
-<entrydata columnnumber="2" name="CallNumber">
-<text></text></entrydata>
-<entrydata columnnumber="3" name="Type">
-<text>Request for Proposal</text></entrydata>
-<entrydata columnnumber="4" name="ShortDescription">
-<text>Request for Proposal for for Architectural and Engineering Consultants</text></entrydata>
-<entrydata columnnumber="5" name="Description">
-<textlist><text>This RFP is an invitation by the City of Toronto (the “City”) to prospective Suppliers to submit Bids for Architectural and Engineering Consultants for City of Toronto, Seniors Services and Long-Term Care Division as further described in Part 3 (Requirements for Deliverables.</text><text>SAP ARIBA LINK TO THE  SOLICITATION:</text><text>https://discovery.ariba.com/rfx/17876845</text></textlist></entrydata>
-<entrydata columnnumber="6" name="$12">
-<textlist><text>Summary</text></textlist></entrydata>
-<entrydata columnnumber="7" name="ShowDatePosted">
-<text>November 14, 2023</text></entrydata>
-<entrydata columnnumber="8" name="$4">
-<text>[&lt;font color=red&gt;&lt;b&gt;December 15, 2023 12:00 noon&lt;/b&gt;]</text></entrydata>
-<entrydata columnnumber="9" name="$8">
-<text>Attachment</text></entrydata>
-<entrydata columnnumber="10" name="SiteMeeting">
-<text></text></entrydata>
-<entrydata columnnumber="11" name="ShowBuyerNameList">
-<text>Luo, Wanda</text></entrydata>
-<entrydata columnnumber="12" name="BuyerPhoneShow">
-<text>416-392-4315</text></entrydata>
-<entrydata columnnumber="13" name="BuyerEmailShow">
-<text>Wanda.Luo@toronto.ca</text></entrydata>
-<entrydata columnnumber="14" name="Division">
-<text>Seniors Services and Long-Term Care</text></entrydata>
-<entrydata columnnumber="15" name="PickFee">
-<text></text></entrydata>
-<entrydata columnnumber="16" name="SecurityDeposit">
-<text></text></entrydata>
-<entrydata columnnumber="17" name="BuyerLocationShow">
-<text>City Hall, 19 Floor, West Tower</text></entrydata>
-<entrydata columnnumber="18" name="AllAttachments">
-<text>No attachments</text></entrydata>
-</viewentry>
-<viewentry position="33" unid="FD9BF0CD245C6E2885258A6E0060D52E" noteid="59012" siblings="36">
+<viewentry position="31" unid="FD9BF0CD245C6E2885258A6E0060D52E" noteid="59012" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Professional Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -1324,7 +1244,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;FD9BF0CD245C6E2885258A6E0060D52E/$file/Doc4227642481 - NOIP.pdf&quot;&gt;]Doc4227642481 - NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (146 Kbytes) 11/21/2023</text></entrydata>
 </viewentry>
-<viewentry position="34" unid="12F73F1C6450BC5885258A7E005AD357" noteid="59076" siblings="36">
+<viewentry position="32" unid="12F73F1C6450BC5885258A7E005AD357" noteid="59076" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Professional Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -1364,7 +1284,7 @@
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;12F73F1C6450BC5885258A7E005AD357/$file/Doc4273472356_NOIP.pdf&quot;&gt;]Doc4273472356_NOIP.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (140 Kbytes) 12/07/2023</text></entrydata>
 </viewentry>
-<viewentry position="35" unid="92FABEE6DF1C0DD685258A740068F679" noteid="59052" siblings="36">
+<viewentry position="33" unid="92FABEE6DF1C0DD685258A740068F679" noteid="59052" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Professional Services</text></entrydata>
 <entrydata columnnumber="1" name="CommodityType">
@@ -1403,45 +1323,5 @@
 <text>17th Floor, City Hall, West Tower</text></entrydata>
 <entrydata columnnumber="18" name="AllAttachments">
 <text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;92FABEE6DF1C0DD685258A740068F679/$file/NOIP Doc4287042123 Corrected.pdf&quot;&gt;]NOIP Doc4287042123 Corrected.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (171 Kbytes) 12/01/2023</text></entrydata>
-</viewentry>
-<viewentry position="36" unid="F6F864941582A63885258A4A004FC99D" noteid="58F66" siblings="36">
-<entrydata columnnumber="0" name="Commodity">
-<text>Professional Services</text></entrydata>
-<entrydata columnnumber="1" name="CommodityType">
-<text></text></entrydata>
-<entrydata columnnumber="2" name="CallNumber">
-<text>Doc4221532957</text></entrydata>
-<entrydata columnnumber="3" name="Type">
-<text>Request for Proposal</text></entrydata>
-<entrydata columnnumber="4" name="ShortDescription">
-<text>Electrical Exterior Lighting Upgrade and Upgrades for Mobile Generators Connection for Multiple Transfer Stations &amp; Yard</text></entrydata>
-<entrydata columnnumber="5" name="Description">
-<textlist><text>Provision of Electrical Exterior Lighting Upgrade and Mobile Generators Connections for Multiple Transfer Stations &amp; Yards for the City of Toronto&apos;s Solid Waste Management Service Division (SWMS).</text><text>The Supplier shall provide engineering services for the sites investigation, technical review, pre-design, detailed design, tendering and construction of recommended replacements of facilities components inclusive of specifications and contract drawings as outlined in the RFP.</text></textlist></entrydata>
-<entrydata columnnumber="6" name="$12">
-<textlist><text>Summary</text></textlist></entrydata>
-<entrydata columnnumber="7" name="ShowDatePosted">
-<text>October 16, 2023</text></entrydata>
-<entrydata columnnumber="8" name="$4">
-<text>[&lt;font color=red&gt;&lt;b&gt;December 15, 2023 12:00 noon&lt;/b&gt;]</text></entrydata>
-<entrydata columnnumber="9" name="$8">
-<text>Revised[&lt;br&gt;]5 Addenda</text></entrydata>
-<entrydata columnnumber="10" name="SiteMeeting">
-<textlist><text>Mandatory Meeting:</text><text>1.Suppliers are required to attend BOTH mandatory meetings to familiarize themselves with the required Deliverables. The mandatory meetings will take place at 10:00 am local time on October 31, 2023 at 120 Disco Rd., Toronto, Disco Road Transfer Station, and at  9:00 am local time on November 02, 2023 at Lot 20-22, Concession Rd. 3, Pickering City, ON, Brock West Landfill(Revised per A1).</text><text>Meetings will not be available at any other times.</text><text>2.Suppliers must sign the attendance sheet at the mandatory meetings during the designated dates and times for their Bid to be considered.</text><text>3.Bids submitted by Suppliers that do not attend the mandatory meetings or fail to sign the attendance sheets shall be declared non-compliant.</text><text>4.Protective headwear (hard hat), reflective vest, safety goggles, and safety boots are mandatory for the site visits.</text></textlist></entrydata>
-<entrydata columnnumber="11" name="ShowBuyerNameList">
-<text>Arvan, Armita</text></entrydata>
-<entrydata columnnumber="12" name="BuyerPhoneShow">
-<text>416-392-7175</text></entrydata>
-<entrydata columnnumber="13" name="BuyerEmailShow">
-<text>armita.arvan@toronto.ca</text></entrydata>
-<entrydata columnnumber="14" name="Division">
-<text></text></entrydata>
-<entrydata columnnumber="15" name="PickFee">
-<text></text></entrydata>
-<entrydata columnnumber="16" name="SecurityDeposit">
-<text></text></entrydata>
-<entrydata columnnumber="17" name="BuyerLocationShow">
-<text>City hall, 19th floor, West Tower</text></entrydata>
-<entrydata columnnumber="18" name="AllAttachments">
-<text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;F6F864941582A63885258A4A004FC99D/$file/NOIP-Doc4221532957.pdf&quot;&gt;]NOIP-Doc4221532957.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (139 Kbytes) 10/16/2023</text></entrydata>
 </viewentry>
 </viewentries>
