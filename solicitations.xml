@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<viewentries timestamp="20231218T000629,73Z" toplevelentries="33">
+<viewentries timestamp="20231219T000610,08Z" toplevelentries="33">
 <viewentry position="1" unid="3C4F7F3D16D2476085258A7100743DCE" noteid="5903E" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
@@ -98,9 +98,9 @@
 <entrydata columnnumber="7" name="ShowDatePosted">
 <text>November 20, 2023</text></entrydata>
 <entrydata columnnumber="8" name="$4">
-<text>December 29, 2023</text></entrydata>
+<text>January 19, 2024</text></entrydata>
 <entrydata columnnumber="9" name="$8">
-<text></text></entrydata>
+<text>Revised[&lt;br&gt;]Attachment</text></entrydata>
 <entrydata columnnumber="10" name="SiteMeeting">
 <text>N/A</text></entrydata>
 <entrydata columnnumber="11" name="ShowBuyerNameList">
@@ -118,7 +118,8 @@
 <entrydata columnnumber="17" name="BuyerLocationShow">
 <text>City Hall 19W 100 Queen St. W, 19th Floor</text></entrydata>
 <entrydata columnnumber="18" name="AllAttachments">
-<text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;65D32808790DAC8085258A6D0067F0E2/$file/NOIP - Doc4276974747 .pdf&quot;&gt;]NOIP - Doc4276974747 .pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (81 Kbytes) 12/01/2023</text></entrydata>
+<text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;65D32808790DAC8085258A6D0067F0E2/$file/NOIP - Doc4276974747 .pdf&quot;&gt;]NOIP - Doc4276974747 .pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (81 Kbytes) 12/01/2023
+[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;65D32808790DAC8085258A6D0067F0E2/$file/NOIP - Doc4276974747 Revised 01.pdf&quot;&gt;]NOIP - Doc4276974747 Revised 01.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (81 Kbytes) 12/18/2023</text></entrydata>
 </viewentry>
 <viewentry position="4" unid="83E123CA294656A685258A6E005EA0A4" noteid="5900E" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
@@ -578,7 +579,7 @@
 <entrydata columnnumber="7" name="ShowDatePosted">
 <text>November 21, 2023</text></entrydata>
 <entrydata columnnumber="8" name="$4">
-<text>December 18, 2023</text></entrydata>
+<text>[&lt;font color=red&gt;&lt;b&gt;December 18, 2023 12:00 noon&lt;/b&gt;]</text></entrydata>
 <entrydata columnnumber="9" name="$8">
 <text>Attachment</text></entrydata>
 <entrydata columnnumber="10" name="SiteMeeting">
@@ -1302,7 +1303,7 @@
 <entrydata columnnumber="7" name="ShowDatePosted">
 <text>November 27, 2023</text></entrydata>
 <entrydata columnnumber="8" name="$4">
-<text>December 18, 2023</text></entrydata>
+<text>[&lt;font color=red&gt;&lt;b&gt;December 18, 2023 12:00 noon&lt;/b&gt;]</text></entrydata>
 <entrydata columnnumber="9" name="$8">
 <text>Attachment</text></entrydata>
 <entrydata columnnumber="10" name="SiteMeeting">
