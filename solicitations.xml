@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<viewentries timestamp="20231222T000618,25Z" toplevelentries="28">
+<viewentries timestamp="20231223T000549,91Z" toplevelentries="28">
 <viewentry position="1" unid="13C2F8B5C2953FF085258A69007626F5" noteid="58FEA" siblings="28">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
@@ -421,7 +421,7 @@
 <entrydata columnnumber="8" name="$4">
 <text>January 3, 2024</text></entrydata>
 <entrydata columnnumber="9" name="$8">
-<text>Attachment</text></entrydata>
+<text>1 Addendum</text></entrydata>
 <entrydata columnnumber="10" name="SiteMeeting">
 <text></text></entrydata>
 <entrydata columnnumber="11" name="ShowBuyerNameList">
@@ -439,7 +439,8 @@
 <entrydata columnnumber="17" name="BuyerLocationShow">
 <text></text></entrydata>
 <entrydata columnnumber="18" name="AllAttachments">
-<text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;E86F944E66B63A5285258A7D0049EFAE/$file/NOIP - Doc4320141834.pdf&quot;&gt;]NOIP - Doc4320141834.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (149 Kbytes) 12/07/2023</text></entrydata>
+<text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;E86F944E66B63A5285258A7D0049EFAE/$file/NOIP - Doc4320141834.pdf&quot;&gt;]NOIP - Doc4320141834.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (149 Kbytes) 12/07/2023
+[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;E86F944E66B63A5285258A7D0049EFAE/$file/Doc4320141834 Addendum 1.pdf&quot;&gt;]Doc4320141834 Addendum 1.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (148 Kbytes) 12/22/2023</text></entrydata>
 </viewentry>
 <viewentry position="12" unid="FB00B982EB5F9DD785258A86007162DB" noteid="5909E" siblings="28">
 <entrydata columnnumber="0" name="Commodity">
@@ -702,7 +703,7 @@
 <entrydata columnnumber="8" name="$4">
 <text>February 27, 2024</text></entrydata>
 <entrydata columnnumber="9" name="$8">
-<text>Attachment</text></entrydata>
+<text>1 Addendum</text></entrydata>
 <entrydata columnnumber="10" name="SiteMeeting">
 <text>An optional bidders&apos; meeting will be held via WebEx at the date and time set out in the solicitation. </text></entrydata>
 <entrydata columnnumber="11" name="ShowBuyerNameList">
@@ -720,7 +721,8 @@
 <entrydata columnnumber="17" name="BuyerLocationShow">
 <text></text></entrydata>
 <entrydata columnnumber="18" name="AllAttachments">
-<text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;AB7FA32C4497384285258A83005C87C4/$file/NOIP_ Doc4348716584.pdf&quot;&gt;]NOIP_ Doc4348716584.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (150 Kbytes) 12/13/2023</text></entrydata>
+<text>[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;AB7FA32C4497384285258A83005C87C4/$file/NOIP_ Doc4348716584.pdf&quot;&gt;]NOIP_ Doc4348716584.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (150 Kbytes) 12/13/2023
+[&lt;font face=arial size=2&gt;&lt;b&gt;&lt;a href=&quot;AB7FA32C4497384285258A83005C87C4/$file/Doc4348716584 Addendum 1.pdf&quot;&gt;]Doc4348716584 Addendum 1.pdf[&lt;/b&gt;&lt;/a&gt; &lt;img src=&apos;/inter/pmmd/calls.nsf/pdf.gif&apos;&gt;] (150 Kbytes) 12/22/2023</text></entrydata>
 </viewentry>
 <viewentry position="19" unid="FBFBAF372BC8AA7485258A7800797D5D" noteid="5906A" siblings="28">
 <entrydata columnnumber="0" name="Commodity">
