@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<viewentries timestamp="20240105T000600,48Z" toplevelentries="33">
+<viewentries timestamp="20240106T000558,06Z" toplevelentries="33">
 <viewentry position="1" unid="13C2F8B5C2953FF085258A69007626F5" noteid="58FEA" siblings="33">
 <entrydata columnnumber="0" name="Commodity">
 <text>Construction Services</text></entrydata>
@@ -619,7 +619,7 @@
 <entrydata columnnumber="7" name="ShowDatePosted">
 <text>November 20, 2023</text></entrydata>
 <entrydata columnnumber="8" name="$4">
-<text>January 5, 2024</text></entrydata>
+<text>[&lt;font color=red&gt;&lt;b&gt;January 5, 2024 12:00 noon&lt;/b&gt;]</text></entrydata>
 <entrydata columnnumber="9" name="$8">
 <text>Revised[&lt;br&gt;]Attachment</text></entrydata>
 <entrydata columnnumber="10" name="SiteMeeting">
@@ -782,7 +782,7 @@
 <entrydata columnnumber="7" name="ShowDatePosted">
 <text>December 1, 2023</text></entrydata>
 <entrydata columnnumber="8" name="$4">
-<text>January 5, 2024</text></entrydata>
+<text>[&lt;font color=red&gt;&lt;b&gt;January 5, 2024 12:00 noon&lt;/b&gt;]</text></entrydata>
 <entrydata columnnumber="9" name="$8">
 <text>Revised[&lt;br&gt;]Attachment</text></entrydata>
 <entrydata columnnumber="10" name="SiteMeeting">
