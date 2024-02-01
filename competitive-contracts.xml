@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<viewentries timestamp="20240131T000548,58Z" toplevelentries="3">
-<viewentry position="1" noteid="80848D90" children="13" descendants="110" siblings="3">
+<viewentries timestamp="20240201T000631,97Z" toplevelentries="3">
+<viewentry position="1" noteid="80851F78" children="13" descendants="110" siblings="3">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="1" name="Commodity" category="true">
 <text>Construction Services</text></entrydata>
 </viewentry>
-<viewentry position="1.1" noteid="80848D94" children="4" descendants="4" siblings="13">
+<viewentry position="1.1" noteid="80851F7C" children="4" descendants="4" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -92,7 +92,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230920</datetime></entrydata>
 </viewentry>
-<viewentry position="1.2" noteid="80848D98" children="6" descendants="6" siblings="13">
+<viewentry position="1.2" noteid="80851F80" children="6" descendants="6" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -218,7 +218,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230801</datetime></entrydata>
 </viewentry>
-<viewentry position="1.3" noteid="80848D9C" children="39" descendants="39" siblings="13">
+<viewentry position="1.3" noteid="80851F84" children="39" descendants="39" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -1004,7 +1004,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231208</datetime></entrydata>
 </viewentry>
-<viewentry position="1.4" noteid="80848DA0" children="1" descendants="1" siblings="13">
+<viewentry position="1.4" noteid="80851F88" children="1" descendants="1" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -1030,7 +1030,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230913</datetime></entrydata>
 </viewentry>
-<viewentry position="1.5" noteid="80848DA4" children="1" descendants="1" siblings="13">
+<viewentry position="1.5" noteid="80851F8C" children="1" descendants="1" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -1056,7 +1056,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231207</datetime></entrydata>
 </viewentry>
-<viewentry position="1.6" noteid="80848DA8" children="6" descendants="6" siblings="13">
+<viewentry position="1.6" noteid="80851F90" children="6" descendants="6" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -1182,7 +1182,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230724</datetime></entrydata>
 </viewentry>
-<viewentry position="1.7" noteid="80848DAC" children="2" descendants="2" siblings="13">
+<viewentry position="1.7" noteid="80851F94" children="2" descendants="2" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -1228,7 +1228,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230215</datetime></entrydata>
 </viewentry>
-<viewentry position="1.8" noteid="80848DB0" children="5" descendants="5" siblings="13">
+<viewentry position="1.8" noteid="80851F98" children="5" descendants="5" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -1334,7 +1334,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231024</datetime></entrydata>
 </viewentry>
-<viewentry position="1.9" noteid="80848DB4" children="24" descendants="24" siblings="13">
+<viewentry position="1.9" noteid="80851F9C" children="24" descendants="24" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -1820,7 +1820,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230906</datetime></entrydata>
 </viewentry>
-<viewentry position="1.10" noteid="80848DB8" children="2" descendants="2" siblings="13">
+<viewentry position="1.10" noteid="80851FA0" children="2" descendants="2" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -1866,7 +1866,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231004</datetime></entrydata>
 </viewentry>
-<viewentry position="1.11" noteid="80848DBC" children="3" descendants="3" siblings="13">
+<viewentry position="1.11" noteid="80851FA4" children="3" descendants="3" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -1932,7 +1932,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230714</datetime></entrydata>
 </viewentry>
-<viewentry position="1.12" noteid="80848DC0" children="14" descendants="14" siblings="13">
+<viewentry position="1.12" noteid="80851FA8" children="14" descendants="14" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2218,7 +2218,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230203</datetime></entrydata>
 </viewentry>
-<viewentry position="1.13" noteid="80848DC4" children="3" descendants="3" siblings="13">
+<viewentry position="1.13" noteid="80851FAC" children="3" descendants="3" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2284,13 +2284,13 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231121</datetime></entrydata>
 </viewentry>
-<viewentry position="2" noteid="80848DC8" children="34" descendants="76" siblings="3">
+<viewentry position="2" noteid="80851FB0" children="34" descendants="76" siblings="3">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="1" name="Commodity" category="true">
 <text>Goods and Services</text></entrydata>
 </viewentry>
-<viewentry position="2.1" noteid="80848DCC" children="1" descendants="1" siblings="34">
+<viewentry position="2.1" noteid="80851FB4" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2316,7 +2316,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230606</datetime></entrydata>
 </viewentry>
-<viewentry position="2.2" noteid="80848DD0" children="2" descendants="2" siblings="34">
+<viewentry position="2.2" noteid="80851FB8" children="2" descendants="2" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2362,7 +2362,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230714</datetime></entrydata>
 </viewentry>
-<viewentry position="2.3" noteid="80848DD4" children="1" descendants="1" siblings="34">
+<viewentry position="2.3" noteid="80851FBC" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2388,7 +2388,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230418</datetime></entrydata>
 </viewentry>
-<viewentry position="2.4" noteid="80848DD8" children="1" descendants="1" siblings="34">
+<viewentry position="2.4" noteid="80851FC0" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2414,7 +2414,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231027</datetime></entrydata>
 </viewentry>
-<viewentry position="2.5" noteid="80848DDC" children="1" descendants="1" siblings="34">
+<viewentry position="2.5" noteid="80851FC4" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2440,7 +2440,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230707</datetime></entrydata>
 </viewentry>
-<viewentry position="2.6" noteid="80848DE0" children="1" descendants="1" siblings="34">
+<viewentry position="2.6" noteid="80851FC8" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2466,7 +2466,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230623</datetime></entrydata>
 </viewentry>
-<viewentry position="2.7" noteid="80848DE4" children="1" descendants="1" siblings="34">
+<viewentry position="2.7" noteid="80851FCC" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2492,7 +2492,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231001</datetime></entrydata>
 </viewentry>
-<viewentry position="2.8" noteid="80848DE8" children="1" descendants="1" siblings="34">
+<viewentry position="2.8" noteid="80851FD0" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2518,7 +2518,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230604</datetime></entrydata>
 </viewentry>
-<viewentry position="2.9" noteid="80848DEC" children="2" descendants="2" siblings="34">
+<viewentry position="2.9" noteid="80851FD4" children="2" descendants="2" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2564,7 +2564,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230823</datetime></entrydata>
 </viewentry>
-<viewentry position="2.10" noteid="80848DF0" children="8" descendants="8" siblings="34">
+<viewentry position="2.10" noteid="80851FD8" children="8" descendants="8" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2730,7 +2730,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230908</datetime></entrydata>
 </viewentry>
-<viewentry position="2.11" noteid="80848DF4" children="7" descendants="7" siblings="34">
+<viewentry position="2.11" noteid="80851FDC" children="7" descendants="7" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2876,7 +2876,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231212</datetime></entrydata>
 </viewentry>
-<viewentry position="2.12" noteid="80848DF8" children="4" descendants="4" siblings="34">
+<viewentry position="2.12" noteid="80851FE0" children="4" descendants="4" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2962,7 +2962,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230714</datetime></entrydata>
 </viewentry>
-<viewentry position="2.13" noteid="80848DFC" children="1" descendants="1" siblings="34">
+<viewentry position="2.13" noteid="80851FE4" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -2988,7 +2988,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230217</datetime></entrydata>
 </viewentry>
-<viewentry position="2.14" noteid="80848E00" children="2" descendants="2" siblings="34">
+<viewentry position="2.14" noteid="80851FE8" children="2" descendants="2" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3034,7 +3034,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230329</datetime></entrydata>
 </viewentry>
-<viewentry position="2.15" noteid="80848E04" children="1" descendants="1" siblings="34">
+<viewentry position="2.15" noteid="80851FEC" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3060,7 +3060,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230508</datetime></entrydata>
 </viewentry>
-<viewentry position="2.16" noteid="80848E08" children="1" descendants="1" siblings="34">
+<viewentry position="2.16" noteid="80851FF0" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3086,7 +3086,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230405</datetime></entrydata>
 </viewentry>
-<viewentry position="2.17" noteid="80848E0C" children="1" descendants="1" siblings="34">
+<viewentry position="2.17" noteid="80851FF4" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3112,7 +3112,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230321</datetime></entrydata>
 </viewentry>
-<viewentry position="2.18" noteid="80848E10" children="1" descendants="1" siblings="34">
+<viewentry position="2.18" noteid="80851FF8" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3138,7 +3138,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230809</datetime></entrydata>
 </viewentry>
-<viewentry position="2.19" noteid="80848E14" children="1" descendants="1" siblings="34">
+<viewentry position="2.19" noteid="80851FFC" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3164,7 +3164,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230607</datetime></entrydata>
 </viewentry>
-<viewentry position="2.20" noteid="80848E18" children="1" descendants="1" siblings="34">
+<viewentry position="2.20" noteid="80852000" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3190,7 +3190,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230810</datetime></entrydata>
 </viewentry>
-<viewentry position="2.21" noteid="80848E1C" children="1" descendants="1" siblings="34">
+<viewentry position="2.21" noteid="80852004" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3216,7 +3216,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231023</datetime></entrydata>
 </viewentry>
-<viewentry position="2.22" noteid="80848E20" children="5" descendants="5" siblings="34">
+<viewentry position="2.22" noteid="80852008" children="5" descendants="5" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3322,7 +3322,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230907</datetime></entrydata>
 </viewentry>
-<viewentry position="2.23" noteid="80848E24" children="1" descendants="1" siblings="34">
+<viewentry position="2.23" noteid="8085200C" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3348,7 +3348,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230601</datetime></entrydata>
 </viewentry>
-<viewentry position="2.24" noteid="80848E28" children="2" descendants="2" siblings="34">
+<viewentry position="2.24" noteid="80852010" children="2" descendants="2" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3394,7 +3394,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230625</datetime></entrydata>
 </viewentry>
-<viewentry position="2.25" noteid="80848E2C" children="3" descendants="3" siblings="34">
+<viewentry position="2.25" noteid="80852014" children="3" descendants="3" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3460,7 +3460,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230828</datetime></entrydata>
 </viewentry>
-<viewentry position="2.26" noteid="80848E30" children="3" descendants="3" siblings="34">
+<viewentry position="2.26" noteid="80852018" children="3" descendants="3" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3526,7 +3526,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230428</datetime></entrydata>
 </viewentry>
-<viewentry position="2.27" noteid="80848E34" children="1" descendants="1" siblings="34">
+<viewentry position="2.27" noteid="8085201C" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3552,7 +3552,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230417</datetime></entrydata>
 </viewentry>
-<viewentry position="2.28" noteid="80848E38" children="2" descendants="2" siblings="34">
+<viewentry position="2.28" noteid="80852020" children="2" descendants="2" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3598,7 +3598,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230902</datetime></entrydata>
 </viewentry>
-<viewentry position="2.29" noteid="80848E3C" children="7" descendants="7" siblings="34">
+<viewentry position="2.29" noteid="80852024" children="7" descendants="7" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3744,7 +3744,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20240108</datetime></entrydata>
 </viewentry>
-<viewentry position="2.30" noteid="80848E40" children="5" descendants="5" siblings="34">
+<viewentry position="2.30" noteid="80852028" children="5" descendants="5" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3850,7 +3850,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20240117</datetime></entrydata>
 </viewentry>
-<viewentry position="2.31" noteid="80848E44" children="1" descendants="1" siblings="34">
+<viewentry position="2.31" noteid="8085202C" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3876,7 +3876,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230509</datetime></entrydata>
 </viewentry>
-<viewentry position="2.32" noteid="80848E48" children="3" descendants="3" siblings="34">
+<viewentry position="2.32" noteid="80852030" children="3" descendants="3" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3942,7 +3942,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230706</datetime></entrydata>
 </viewentry>
-<viewentry position="2.33" noteid="80848E4C" children="1" descendants="1" siblings="34">
+<viewentry position="2.33" noteid="80852034" children="1" descendants="1" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -3968,7 +3968,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231207</datetime></entrydata>
 </viewentry>
-<viewentry position="2.34" noteid="80848E50" children="2" descendants="2" siblings="34">
+<viewentry position="2.34" noteid="80852038" children="2" descendants="2" siblings="34">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -4014,13 +4014,13 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230426</datetime></entrydata>
 </viewentry>
-<viewentry position="3" noteid="80848E54" children="14" descendants="63" siblings="3">
+<viewentry position="3" noteid="8085203C" children="13" descendants="62" siblings="3">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="1" name="Commodity" category="true">
 <text>Professional Services</text></entrydata>
 </viewentry>
-<viewentry position="3.1" noteid="80848E58" children="6" descendants="6" siblings="14">
+<viewentry position="3.1" noteid="80852040" children="6" descendants="6" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -4146,7 +4146,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230926</datetime></entrydata>
 </viewentry>
-<viewentry position="3.2" noteid="80848E5C" children="2" descendants="2" siblings="14">
+<viewentry position="3.2" noteid="80852044" children="2" descendants="2" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -4192,7 +4192,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231018</datetime></entrydata>
 </viewentry>
-<viewentry position="3.3" noteid="80848E60" children="1" descendants="1" siblings="14">
+<viewentry position="3.3" noteid="80852048" children="1" descendants="1" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -4218,7 +4218,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230414</datetime></entrydata>
 </viewentry>
-<viewentry position="3.4" noteid="80848E64" children="25" descendants="25" siblings="14">
+<viewentry position="3.4" noteid="8085204C" children="25" descendants="25" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -4724,7 +4724,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231117</datetime></entrydata>
 </viewentry>
-<viewentry position="3.5" noteid="80848E68" children="2" descendants="2" siblings="14">
+<viewentry position="3.5" noteid="80852050" children="2" descendants="2" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -4770,7 +4770,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231227</datetime></entrydata>
 </viewentry>
-<viewentry position="3.6" noteid="80848E6C" children="12" descendants="12" siblings="14">
+<viewentry position="3.6" noteid="80852054" children="12" descendants="12" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -5016,7 +5016,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231117</datetime></entrydata>
 </viewentry>
-<viewentry position="3.7" noteid="80848E70" children="3" descendants="3" siblings="14">
+<viewentry position="3.7" noteid="80852058" children="3" descendants="3" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
@@ -5082,39 +5082,13 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20240123</datetime></entrydata>
 </viewentry>
-<viewentry position="3.8" noteid="80848E74" children="1" descendants="1" siblings="14">
-<entrydata columnnumber="0" name="$7">
-<textlist><text> </text></textlist></entrydata>
-<entrydata columnnumber="2" name="CommodityType" category="true">
-<text>Financial and related Services</text></entrydata>
-</viewentry>
-<viewentry position="3.8.1" unid="85258049005DEA63852588E5005DFE24" noteid="32B26" siblings="1">
-<entrydata columnnumber="0" name="$7">
-<textlist><text> </text></textlist></entrydata>
-<entrydata columnnumber="3" name="$14">
-<number>0</number></entrydata>
-<entrydata columnnumber="4" name="$6">
-<text>Doc3642029322</text></entrydata>
-<entrydata columnnumber="5" name="Division">
-<text>Corporate Finance</text></entrydata>
-<entrydata columnnumber="6" name="ShortDescription">
-<text>Investment Consultant</text></entrydata>
-<entrydata columnnumber="7" name="Icon">
-<number>0</number></entrydata>
-<entrydata columnnumber="8" name="$13">
-<text>Aon Solutions Canada Inc.</text></entrydata>
-<entrydata columnnumber="9" name="$12">
-<text>$105,000.00</text></entrydata>
-<entrydata columnnumber="10" name="DateAwarded">
-<datetime>20230131</datetime></entrydata>
-</viewentry>
-<viewentry position="3.9" noteid="80848E78" children="3" descendants="3" siblings="14">
+<viewentry position="3.8" noteid="8085205C" children="3" descendants="3" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
 <text>Information &amp; Technology Services</text></entrydata>
 </viewentry>
-<viewentry position="3.9.1" unid="85258049005DEA638525878800727F20" noteid="31B52" siblings="3">
+<viewentry position="3.8.1" unid="85258049005DEA638525878800727F20" noteid="31B52" siblings="3">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="3" name="$14">
@@ -5134,7 +5108,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230504</datetime></entrydata>
 </viewentry>
-<viewentry position="3.9.2" unid="85258049005DEA6385258990004DA719" noteid="33002" siblings="3">
+<viewentry position="3.8.2" unid="85258049005DEA6385258990004DA719" noteid="33002" siblings="3">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="3" name="$14">
@@ -5154,7 +5128,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230821</datetime></entrydata>
 </viewentry>
-<viewentry position="3.9.3" unid="85258049005DEA63852589AC005EF3FF" noteid="3309A" siblings="3">
+<viewentry position="3.8.3" unid="85258049005DEA63852589AC005EF3FF" noteid="3309A" siblings="3">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="3" name="$14">
@@ -5174,13 +5148,13 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230809</datetime></entrydata>
 </viewentry>
-<viewentry position="3.10" noteid="80848E7C" children="3" descendants="3" siblings="14">
+<viewentry position="3.9" noteid="80852060" children="3" descendants="3" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
 <text>Security Services</text></entrydata>
 </viewentry>
-<viewentry position="3.10.1" unid="85258049005DEA6385258816004CBC39" noteid="31E16" siblings="3">
+<viewentry position="3.9.1" unid="85258049005DEA6385258816004CBC39" noteid="31E16" siblings="3">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="3" name="$14">
@@ -5200,7 +5174,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231023</datetime></entrydata>
 </viewentry>
-<viewentry position="3.10.2" unid="85258049005DEA638525894B007E28DF" noteid="32FC2" siblings="3">
+<viewentry position="3.9.2" unid="85258049005DEA638525894B007E28DF" noteid="32FC2" siblings="3">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="3" name="$14">
@@ -5220,7 +5194,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230726</datetime></entrydata>
 </viewentry>
-<viewentry position="3.10.3" unid="85258049005DEA63852589BB00451B9E" noteid="330CE" siblings="3">
+<viewentry position="3.9.3" unid="85258049005DEA63852589BB00451B9E" noteid="330CE" siblings="3">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="3" name="$14">
@@ -5240,13 +5214,13 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231027</datetime></entrydata>
 </viewentry>
-<viewentry position="3.11" noteid="80848E80" children="2" descendants="2" siblings="14">
+<viewentry position="3.10" noteid="80852064" children="2" descendants="2" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
 <text>Service Providers</text></entrydata>
 </viewentry>
-<viewentry position="3.11.1" unid="85258049005DEA638525882C0053492A" noteid="31EE6" siblings="2">
+<viewentry position="3.10.1" unid="85258049005DEA638525882C0053492A" noteid="31EE6" siblings="2">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="3" name="$14">
@@ -5266,7 +5240,7 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230228</datetime></entrydata>
 </viewentry>
-<viewentry position="3.11.2" unid="85258049005DEA63852589EB00591EA5" noteid="331CA" siblings="2">
+<viewentry position="3.10.2" unid="85258049005DEA63852589EB00591EA5" noteid="331CA" siblings="2">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="3" name="$14">
@@ -5286,13 +5260,13 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231023</datetime></entrydata>
 </viewentry>
-<viewentry position="3.12" noteid="80848E84" children="1" descendants="1" siblings="14">
+<viewentry position="3.11" noteid="80852068" children="1" descendants="1" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
 <text>Testing &amp; Inspection Services</text></entrydata>
 </viewentry>
-<viewentry position="3.12.1" unid="85258049005DEA638525899100742BD8" noteid="32FE6" siblings="1">
+<viewentry position="3.11.1" unid="85258049005DEA638525899100742BD8" noteid="32FE6" siblings="1">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="3" name="$14">
@@ -5312,13 +5286,13 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20231106</datetime></entrydata>
 </viewentry>
-<viewentry position="3.13" noteid="80848E88" children="1" descendants="1" siblings="14">
+<viewentry position="3.12" noteid="8085206C" children="1" descendants="1" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
 <text>Translation Services</text></entrydata>
 </viewentry>
-<viewentry position="3.13.1" unid="85258049005DEA638525889900752934" noteid="321BA" siblings="1">
+<viewentry position="3.12.1" unid="85258049005DEA638525889900752934" noteid="321BA" siblings="1">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="3" name="$14">
@@ -5338,13 +5312,13 @@
 <entrydata columnnumber="10" name="DateAwarded">
 <datetime>20230725</datetime></entrydata>
 </viewentry>
-<viewentry position="3.14" noteid="80848E8C" children="1" descendants="1" siblings="14">
+<viewentry position="3.13" noteid="80852070" children="1" descendants="1" siblings="13">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="2" name="CommodityType" category="true">
 <text>|</text></entrydata>
 </viewentry>
-<viewentry position="3.14.1" unid="85258049005DEA63852588E90065C4EF" noteid="32B5E" siblings="1">
+<viewentry position="3.13.1" unid="85258049005DEA63852588E90065C4EF" noteid="32B5E" siblings="1">
 <entrydata columnnumber="0" name="$7">
 <textlist><text> </text></textlist></entrydata>
 <entrydata columnnumber="3" name="$14">
