@@ -13,30 +13,25 @@ jobs:
       - name: Checkout city-of-toronto-contracts-data
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_CITYOFTORONTOCONTRACTSDATA }}
-          repository: 'RamVasuthevan/city-of-toronto-contracts-data'
-          path: city-of-toronto-contracts-data
-          ref: 'main'
+          ref: ${{ github.ref }}  # Use the branch or tag ref that triggered the workflow
 
-      - name: Download Competitive Contracts File
-        run: |
-          curl -o city-of-toronto-contracts-data/competitive-contracts.xml -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36" https://wx.toronto.ca/inter/pmmd/callawards.nsf/postedawards?ReadViewEntries
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'  # Specify the Python version you need
 
-      - name: Download Non-Competitive Contracts File
-        run: |
-          curl -o city-of-toronto-contracts-data/non-competitive-contracts.xml -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36" https://wx.toronto.ca/inter/pmmd/solesource.nsf/posted?ReadViewEntries
+      - name: Install dependencies
+        run: pip install requests
 
-      - name: Download Solicitations File 
-        run: |
-          curl -o city-of-toronto-contracts-data/solicitations.xml -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36" https://wx.toronto.ca/inter/pmmd/calls.nsf/002FC5CABA39CB078525783300553575?readviewentries
+      - name: Run download script
+        run: python download.py
 
       - name: Commit and Push if Files Changed
         run: |
-          cd city-of-toronto-contracts-data
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
-          git add competitive-contracts.xml non-competitive-contracts.xml solicitations.xml
+          git add .
           timestamp=$(date -u)
           git commit -m "Downloaded: ${timestamp}: commit: ${{github.sha}}" || exit 0
-          # Use force push to push changes
-          git push --force
+          # Use force push to push changes to the current branch
+          git push origin HEAD:${{ github.ref }} --force
