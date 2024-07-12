@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.PAT_CITYOFTORONTOCONTRACTSDATA }}
           repository: 'RamVasuthevan/city-of-toronto-contracts-data'
           path: city-of-toronto-contracts-data
-          ref: 'main'
+          ref: ${{ github.ref }}  # Use the branch or tag ref that triggered the workflow
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -37,5 +37,5 @@ jobs:
           git add .
           timestamp=$(date -u)
           git commit -m "Downloaded: ${timestamp}: commit: ${{github.sha}}" || exit 0
-          # Use force push to push changes
-          git push --force
+          # Use force push to push changes to the current branch
+          git push origin HEAD:${{ github.ref }} --force
