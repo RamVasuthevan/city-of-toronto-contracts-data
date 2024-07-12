@@ -13,9 +13,6 @@ jobs:
       - name: Checkout city-of-toronto-contracts-data
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_CITYOFTORONTOCONTRACTSDATA }}
-          repository: 'RamVasuthevan/city-of-toronto-contracts-data'
-          path: city-of-toronto-contracts-data
           ref: ${{ github.ref }}  # Use the branch or tag ref that triggered the workflow
 
       - name: Set up Python
