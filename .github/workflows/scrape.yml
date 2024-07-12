@@ -34,7 +34,7 @@ jobs:
           cd city-of-toronto-contracts-data
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
-          git add competitive-contracts.xml non-competitive-contracts.xml solicitations.xml
+          git add .
           timestamp=$(date -u)
           git commit -m "Downloaded: ${timestamp}: commit: ${{github.sha}}" || exit 0
           # Use force push to push changes
