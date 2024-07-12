@@ -1,0 +1,240 @@
+_id,unique_id,Workspace Number,Reason,Contract Date,Supplier Name,Contract Amount,Division
+1,4bf1b5e2-8c7d-47cc-a480-a08097db60ba,SR4532964302 - WS4544437558,Time Constraint,2024-05-17,WATSON & ASSOCIATES ECONOMISTS LTD,"$104,280.00",Municipal Licensing & Standards
+2,a2746fc1-a519-4b6c-bd87-4935e1316269,WS4356452073,Bridging Contract,2024-05-06,E-SAFE PEST CONTROL,"70,000.00","Shelter, Support & Housing Administration"
+3,d5640253-3201-414c-abea-36d2dbd35213,WS4150241752,Work already completed,2024-04-30,"THE ACTIVE NETWORK, LTD.","440,000.00","Parks, Forestry & Recreation,Technology Services"
+4,40c08f4c-16d3-4c1d-b5da-e2fc8e6a4639,SR4496481480 - WS4506186509,Other,2024-04-29,CANADIAN LOCATORS INC,"$440,000.00",Toronto Water
+5,28be0cbd-6cf2-4a88-a28b-515b8c3db5b0,WS4407149512,Work already completed,2024-04-22,"LUTHER, SARA","4,620.00",Economic Development & Culture
+6,c5805a39-ed79-4a01-af19-f1f76fd9a6fc,WS4463319519,Exclusive Rights,2024-04-22,TACEL LTD,"1,486,440.00",Purchasing & Materials Management
+7,835bd480-6285-463f-ad18-3c185bd72ae3,WS4476153624,Competitive solicitation unsuccessful,2024-04-16,HTS ENGINEERING LTD,"109,000.00",Seniors Services and Long-Term Care
+8,ebdcccb7-0202-4169-b1ce-47fc53da459f,WS4442361090,Work already completed,2024-04-05,SANIMAX ABP INC,"6,593.22",Corporate Real Estate Management
+9,14009e26-5d6d-4442-8a9d-2b83d619651d,WS4221587296,Time Constraint,2024-04-04,ENGINESS INC,"6,000.00",Technology Services
+10,e71d7e5d-c0c5-494d-9765-48a427120b4a,WS4412879434,Time Constraint,2024-04-03,2526976 ONTARIO LTD. (DBA PUBLIC PROGRESS),"46,409.00",Housing Secretariat
+11,4a1019ea-4817-467c-ab71-c608e4afdc59,WS4410769271,Work already completed,2024-04-03,INLAND LIFERAFTS AND MARINE,"32,200.00","Parks, Forestry & Recreation"
+12,178d0818-a433-43fb-9c91-960f0cdc2c2b,WS4318739348 ,Work already completed,2024-03-26,NEIL VANDERKRUK HOLDINGS INC,"$3,880.00","Parks, Forestry & Recreation"
+13,b96cd34c-4f99-4c2b-9ab5-a073adcd6a0b,WS4479272862,Work already completed,2024-03-25,LURA CONSULTING,"5,000.00","Parks, Forestry & Recreation"
+14,f36130a5-4730-4c03-b641-2f1a0c4a073a,WS4469527559,Absence of competition,2024-03-22,"PHIPPS WALKER, PATRICIA","50,000.00",Transportation Services
+15,9b10f77e-6a80-4f7e-9d3b-1f1ba14a1ded,WS4408606764,Time Constraint,2024-03-18,MASS LBP INC,"330,456.50",Environment & Climate
+16,a818340e-891b-45de-8181-abfe5249fb20,WS4447395388,Time Constraint,2024-03-14,TAIBU COMMUNITY HEALTH CENTRE,"15,624,948.00","Social Development, Finance & Administration,Social Development, Finance & Admin"
+17,851d9923-eb26-4da8-90f2-13a73cf7a1e2,WS4478456115,Work already completed,2024-03-14,TOUR MATE SYSTEMS CANADA LTD,"1,516.39",Economic Development & Culture
+18,a338f05a-6732-440a-9ba0-cd160487c43d,WS4445193760,Compatible,2024-03-08,LMDG Building Code Consultants Ltd.,"$20,000.00",Toronto Building
+19,efd924d9-c9a9-4651-a73a-8562dbf66068,WS4463504935,Time Constraint,2024-03-07,2 SPIRITED PEOPLE OF THE 1ST NATION,"31,707,988.92","Social Development, Finance & Administration,Social Development, Finance & Admin"
+20,885d132b-d010-48ff-b67a-004eccbc3a9a,WS4419465053,Work already completed,2024-03-07,DEVIKA RATNAYAKE,"17,975.75","Parks, Forestry & Recreation"
+21,e6203740-f225-462f-a1c4-09855f481137,WS4367074491,Time Constraint,2024-03-04,EN VILLE EVENT DESIGN & CATERING INC.,4048.53,Economic Development & Culture
+22,e9896415-3fea-4e92-9072-197102072690,WS4227371038,Health & Safety Issue,2024-02-27,YUMMY CATERING SERVICES INC,150000.00,Toronto Shelter and Support Services
+23,cbf9c2d2-ae51-4fff-b3d0-b9ed93113ae9,WS4424918129,Work already completed,2024-02-22,ACCESS PLANNING LTD.,"98,000.00",Revenue Services
+24,f1b32d00-01c5-4bcb-aa2d-cfbd85aba89a,WS4330263510,Work already completed,2024-02-20,LEBANESE GARDENS,"5,121.61",Environment & Climate
+25,4ab59e0d-5e9a-4297-b29d-bfaca642bf20,WS4432272194,Time Constraint,2024-02-16,CANADIAN MENTAL HEALTH ASSOCIATION TORONTO,"24,452,582.00","Social Development, Finance & Administration"
+26,681287e2-0af6-4901-9dfb-693e42ce146f,WS4417530057,Work already completed,2024-02-16,TRH Services,9522.43,Seniors Services & Long Term Care
+27,b107c032-c16c-4cc1-8cfc-dca5d4968d11,WS4423060402,Other,2024-02-15,"FINANCIAL CONSULTING SERVICES GROUP, INC.","303,054.75",Solid Waste Management Services
+28,a90d91e4-7534-404e-aa08-24bedaf44b09,WS4331641441,Exclusive Rights,2024-02-13,GINQO CONSULTING LTD,248400.00,Toronto Paramedic Services
+29,7bedbb88-4767-4b52-8d6c-a09f0f330372,WS4277870281,Compatible,2024-02-13,OTIS CANADA INC,"82,500.00",Corporate Real Estate Management
+30,c373699e-3c8c-4026-a17e-83d1c34cf464,WS4396963583,Compatible,2024-02-13,BEAM GROUP INC,70200.00,Housing Secretariat
+31,92bea15f-1b43-45f2-855b-f6709f207089,WS4361681454,Work already completed,2024-02-13,THE MAIN EVENT FUN GAMES INC.,3200.00,"Parks, Forestry & Recreation"
+32,3e10a8ef-ebe2-445b-bb11-4769bf8b08fa,WS4408528678,Work already completed,2024-02-13,WASTECO,11185.92,Seniors Services & Long Term Care
+33,79331446-f95c-4113-a4c4-8bee31fccd38,WS4219992046,Absence of competition,2024-02-12,LEXISNEXIS CANADA INC.,"410,215.20","Legal Services,Technology Services"
+34,05ac00af-c922-4175-b24a-014d7d5aec96,WS4361575157,Work already completed,2024-02-08,CCR SOLUTIONS,"16,146.00","Parks, Forestry & Recreation"
+35,6837e14e-4c55-4fc9-82c1-717b51177f4a,WS4245170145,Compatible,2024-02-02,FOTOWARE AS,"489,004.61",Technology Services
+36,b35f8850-48ac-491b-aa57-49c596cdce08,WS4319044112,Time Constraint,2024-02-02,ACCENTURE INC.,275000.00,Technology Services
+37,cf2fb901-ee80-4993-9a31-bfe0dfbd7701,WS4391015538,Bridging Contract,2024-02-02,OnX Enterprise Solutions Ltd,226655.53,Technology Services
+38,10e670db-65f2-4b4d-a580-751f09b0fb01, WS4356442534,Compatible,2024-02-02,SmartSimple,"$42,900","Social Development, Finance & Administration"
+39,b38fd62d-719e-45d6-9cf9-6180545a9f1d,WS4031466721,Compatible,2024-02-01,PODS - Portable Storage Canada Limited,"$200,000.00","Shelter, Support & Housing Administration,Toronto Shelter and Support Services"
+40,25ecd99d-73e7-4627-8cae-63222bd2f963,WS4402320885,Exclusive Rights,2024-02-01,RESOLVE SOFTWARE GROUP PTY LTD,10522.00,Toronto Lobbyist Registrar
+41,ccf10a5a-809c-484c-b3a3-5a579bf3b871,WS4352490951,Work already completed,2024-01-31,Summit Rentals Inc,"38,000",Transportation Services
+42,4e988e6e-c415-4418-b741-28d4e7dc81cf,WS4378126081,Work already completed,2024-01-29,VERINT AMERICAS INC,"113,113.57","Shelter, Support & Housing Administration"
+43,a68beba6-670f-421f-b629-dee63cd49e12,WS4252517244,Work Already Completed,2024-01-26,EAGLE PROFESSIONAL RESOURCES INC,14662.5,"Parks, Forestry & Recreation"
+44,12a4c057-d163-45b4-abd6-f0473e81c0a0,WS4338008349,Work of Art,2024-01-26,Vahid Misaghi,44247.79,"Parks, Forestry & Recreation"
+45,5456418c-f905-4136-880e-f1b2d297f3a9,WS4352474640,Work already completed,2024-01-25,PODS Enterprises,102654.26,"Shelter, Support & Housing Administration"
+46,9f02501e-3b2b-429b-9a73-eb91c776971b,SR4338219387,Work already completed,2024-01-25,PODS - Portable Storage Canada Limited,102654.26,"Shelter, Support & Housing Administration"
+47,da2f2b4e-3c96-471e-8067-a815c7479b15,WS4385911726,Work already completed,2024-01-24,HARTS UPHOLSTERED PRODUCTS CO LTD,5630,Toronto Public Health
+48,6d5cf77a-3543-4d65-bdb6-4406597d5bf6,WS4336150746,Work already completed,2024-01-23,PLANIT MEASURING,34501.11,Corporate Real Estate Management
+49,e9bd73cf-bde4-480c-ac8e-6cd21830ff53,WS4326967872,Work Already Completed,2024-01-19,Swift SMS Gateway Inc.,23250,"Parks, Forestry & Recreation"
+50,a1c42fcb-3ad1-4087-8c5d-e6f081f8aaab,WS4001319948,Compatible,2024-01-18,UNITY HEALTH TORONTO,"81,200.00",Seniors Services and Long-Term Care
+51,c46cc064-6720-4e52-993b-f40ef56f5533,WS4313834336,Emergency,2024-01-18,TORONTO DRYDOCK LIMITED,"5,350,656.00","Parks, Forestry & Recreation"
+52,593ecddd-37c3-47a0-bb06-59deaead73bc,WS4408923398,Other,2024-01-15,BDO Canada LLP,"70,000",Solid Waste Management Services
+53,c10c09ad-0f2f-4ce3-a33f-9104638577f5,WS4261140358,Emergency,2024-01-15,BDA Inc.,2075000,Facilities Design & Construction
+54,2c9b3eef-0c55-4903-9713-f48dc5360534,WS4279193581,Work Already Completed,2024-01-15,ZEDCOR SECURITY SOLUTIONS CORP.,8118,Corporate Security
+55,50d37c57-7419-4115-a86b-0e6139e784a5,SR4310643359,Emergency,2024-01-15,Toronto Drydock Limited,5350656.18,"Parks, Forestry & Recreation"
+56,0e27a692-cbd1-4fb3-8d30-a7826ed49ac5,WS4223365692,Bridging Contract,2024-01-12,APPLEWOOD ROOFING & SHEET METAL LTD,"371,612.75",Corporate Real Estate Management
+57,6e5671c7-ddac-41f4-a812-8cceed33ee40,WS4390802126,Time Constraint,2024-01-11,Strategic Communications Inc.,117152.36,City Managers Office
+58,420082d6-f732-42f6-9223-5f70b14eba71,WS4343534882,Time Constraint,2024-01-08,J IRICH SERVICES INC,"140,000.00",Technology Services
+59,ec189507-dd4b-4797-89fe-5b032fe49863,WS4320884730,Exclusive Rights,2024-01-08,SAS INSTITUTE INC,179315,Public Health
+60,68c2546d-0bd1-415a-827c-44465b204b7b,WS4382776809,Work already completed,2024-01-05,BETTY MUISE,"6,970.00",Transportation Services
+61,4ae659af-b60f-4a18-99d7-efdae35cb6b2,	 WS4331641441,Exclusive Rights,2024-01-01,GINQO CONSULTING LTD,"$248,400.00",Toronto Paramedic Services
+62,2425e6d5-6fc2-42f8-be47-536595d44edc,WS3781163238,Compatible,2024-01-01,Continental Carbon Group Inc.,"$496,496.00",Toronto Water
+63,a6749f1e-4542-4d35-99c1-46669330833e,WS4364947833,Bridging Contract,2024-01-01,Schindler Elevator Corporation,500000,Corporate Real Estate Management
+64,d2332a55-8d3d-468b-8d52-ac73bb50d83e,WS4284643639,Time Constraint,2023-12-22,Raise Limited,304904.6,Corporate Finance
+65,357e612e-ed21-430f-a0ef-ffec8e2179ce,WS4367280077,Exclusive Rights,2023-12-22,Clariti Cloud Inc.,67475.85,Municipal Licensing & Standards
+66,6fc38835-ae6e-4ad2-87b6-6ddbaed9753a,WS4288698560,Time Constraint,2023-12-22,MARBERG LIMITED,222058.2,Corporate Finance
+67,b354c91f-f8e5-4191-bef0-c99c7df102c8,WS4288757880,Time Constraint,2023-12-22,TEAMRECRUITER.COM INC,114605.4,Corporate Finance
+68,2a1db8d8-58d6-49df-ae44-f7516e63d75a,WS4308153206,Time Constraint,2023-12-22,ALTIS RECRUITMENT & TECHNOLOGY INC,288288,Corporate Finance
+69,5d61faba-351c-4f19-86c7-2066a7ec339c,WS4341510146,Exclusive Rights,2023-12-21,FINDHELP INFORMATION SERVICES,4039535,"Social Development, Finance & Administration"
+70,7d979f75-c9c1-417c-b243-ea2d140ae276,WS4239935148,Work Already Completed,2023-12-19,Beta & Associates Inc,7907.5,Toronto Building
+71,93cce10f-9f14-415d-930f-a49bf00e72ff,WS4320775052,Work already completed,2023-12-18,TURNBULL & COMPANY INTERNATIONAL IN,72289.00,Environment & Climate
+72,a2f42351-31f8-4872-9f81-a846f97ef518,WS4243893604,Work Already Completed,2023-12-18,Jame Financial Corporation,81216,Transportation Services
+73,37c7c36c-d7eb-4140-adc4-1fae61b95935,WS4285116606,Exclusive Rights,2023-12-15,WorkDynamics Technologies Inc.,14496,City Clerks Office
+74,0b395d91-9b55-4278-bb4e-6b642be450a3,WS4251974359,Exclusive Rights,2023-12-14,VISIONTEC (2008) LIMITED,239748,Fire Services
+75,246b3786-28be-4836-9fb3-7bd5dd9ac595,WS4042789764,Compatible,2023-12-13,BROOK MCILROY INC,463784.41,Economic Development & Culture
+76,065d4efd-96dd-4154-bee6-300ab23bd85b,WS4284694249,Health & Safety Issue,2023-12-13,ARJOHUNTLEIGH CANADA INC,412000,Seniors Services and Long-Term Care
+77,15a9bfa5-d956-4f35-99a5-58c8d5a9284b,WS4273838345,Scarcity of market supply,2023-12-11,Les Productions De La Capitale Nationale,48750,Toronto Paramedic Services
+78,73fb794f-8179-44ab-ae9c-2103c1164fa9,WS4160974029,Emergency,2023-12-08,ELLISDON CIVIL LTD,1320000,Engineering & Construction Services
+79,8b21cf18-86c2-4c25-9653-e1a101bb02c7,WS3768203078,Exclusive Rights,2023-12-07,FOXIT SOFTWARE INC,3672,City Clerks Office
+80,9679e2ec-40d3-442e-980d-f13e0875dd84,WS4099891883,Compatible,2023-12-07,KPMG LLP VALUATION & LITIGATION SERVICE,140000,City Planning
+81,0a28b416-86b2-49db-8b21-9f179d9c7ce6,WS4290855089,Time Constraint,2023-12-07,CIPPARRONE CONSTRUCTION LTD,500000,Toronto Water
+82,fa337d47-28d4-481b-94b4-ec8a788a0cd0,WS4253989644,Time Constraint,2023-12-07,SUPCO CONSTRUCTION LTD,500000,Toronto Water
+83,f1627cd0-c161-4667-b202-df4c4ed3708e,SR4272809776,Absence of competition,2023-12-05,Dayco Distributing Ltd.,461717.04,Seniors Services and Long-Term Care
+84,60d7ca9a-4b10-4174-b92c-38a44f341d96,WS4063810379,Time Constraint,2023-12-04,: ACCURISTIX,200000,Public Health
+85,0ed37bf7-890f-46cf-86ce-0287c75ab450,WS3735627014,Health & Safety Issues,2023-11-23,Staff Relief Healthcare Services Inc.,495690,Long-Term Care Homes & Services
+86,7599d069-1f45-4065-ace0-115a1b53bfda,WS3695690066,Exclusive Rights,2023-11-16,Masimo Canada ULC,60700,Fire Services
+87,2d29b43d-e71f-444c-8879-fa67f7de2907,WS4150032971,Time Constraint,2023-11-16,READ JONES CHRISTOFFERSEN LTD,1592993.75,Real Estate Services
+88,43ec7b58-7445-4d38-a587-3ae492e91e47,WS4232450178,Time Constraint,2023-11-15,BIO NUCLEAR DIAGNOSTICS INC,510000,Purchasing & Materials Management
+89,d596a16e-1766-48ea-9aed-7940ba172e30,WS4053424363,Work Already Completed,2023-11-10,Matti Siemiatycki,10000,"Shelter, Support & Housing Administration"
+90,bf90b4ce-0656-4141-a7fe-135125b4ca70,WS4218083855,Cost Sharing,2023-11-07,KILDONAN ENERGY SERVICES,205550,Long-Term Care Homes & Services
+91,0c25443c-77d9-4115-9ebf-0955b28d0b88,WS3615744647,Exclusive Rights,2023-11-04,Integrated Distribution Systems LP Div of Wajax Limited,152292.5,Fire Services
+92,061c7493-d802-46b1-8063-6ec17e6880aa,WS4214250816,Exclusive Rights,2023-11-02,"M&L SUPPLY, FIRE & SAFETY",141335.00,Fire Services
+93,b5634018-4b8e-4e00-bef3-4f889bc06056,WS4252670419,Work Already Completed,2023-11-02,LIVE PATROL INC,4800,"Parks, Forestry & Recreation"
+94,485218d3-b5b5-48cf-9cde-d06bea63e76a,WS3768387318,Exclusive Rights,2023-11-01,Agilent Technologies Canada Inc.,130431.6,Toronto Water
+95,437a108f-d903-4242-9a5e-3ca1b2db11e0,WS4272258181,Work Already Completed,2023-10-31,MOHAWK MEDBUY CORPORATION,139258,Purchasing & Materials Management
+96,eef04d0f-bc72-4500-83f2-6dd5ce52f1b8,WS4239971810,Competitive Solicitation Unsuccessful,2023-10-30,BDO CANADA LLP,332500,Financial Planning
+97,19cb6653-d6b9-4ebf-b77e-f4db32d4e7d0,WS4213816548,Time Constraint,2023-10-25,AET Group Inc,397278,Solid Waste Management Services
+98,2ed81c75-bfbf-4408-8db2-67afc68415cb,WS4265107953,Exclusive Rights,2023-10-24,ESRI CANADA LTD,35978.63,Information & Technology
+99,efe58684-9d5b-4f76-a46d-d52664f558b6,WS4201806213,Competitive Solicitation Unsuccessful,2023-10-19,Chaplin & Co LLP,100000,City Clerks Office
+100,1f496f83-49cc-49dc-9101-c901197845d0,WS4207876790,Time Constraint,2023-10-16,CUSTOMER SERVICE PROFESSIONALS NETWORK INC.,179640,"Pension, Payroll & Employee Benefits"
+101,2d0a9a27-913e-42ae-bb50-63302aca97cb,WS4162685540,Work Already Completed,2023-10-13,SUPER SAVE FENCE RENTALS INC,419.69,Toronto Water
+102,606e34f8-47ed-46bf-90ff-208735a55ac4,WS4066978344,Work Already Completed,2023-10-11,R COURIER,132670,Public Health
+103,4a6fe44d-ec05-4a5c-85f8-3cb1de5be39c,WS4196796319,Work Already Completed,2023-10-09,GEO MORPHIX LTD,7363.12,Toronto Water
+104,b5ab96e2-72a0-480f-a706-ff7ac391666f,WS4127376595,Cost Sharing,2023-10-09,MANTLE314 DEVELOPMENTS INC,246000,City Planning
+105,ee0cbc9a-9f7a-4029-9a67-4ce0c05bdaf2,WS4015310875,Time Constraint,2023-10-05,North-South Environmental,450000,City Planning
+106,0d9ba494-c21a-4cd9-bba1-5736a3580a2b,WS3981202008,Absence of Competition,2023-10-04,Idexx Reference Laboratories Ltd.,158000,Municipal Licensing & Standards
+107,fc48ff6b-8afb-4e16-b19d-cb9212d6c36a,WS4108294435,Work Already Completed,2023-09-29,"MUISE, BETTY",8831.79,Transportation Services
+108,ca0d4c78-0097-4794-8689-1e302d73c11b,WS4122161778,Work Already Completed,2023-09-29,ABC Fire Door Testing and Manufacturing Limited,4115,Solid Waste Management Services
+109,9baaf90a-1564-448b-8b9d-839f4ff484f9,WS4106560071,Time Constraint,2023-09-28,CATALYST CONSULTING GROUP,300000,311 Toronto
+110,66e4d9bf-0587-437a-835f-4bcb5447eee7,WS4132795396,Work Already Completed,2023-09-19,Applied Industrial Flooring,25000,Solid Waste Management Services
+111,2b2a94ed-25ff-44e3-a322-9d7a039e3ff2,WS4121580584,Emergency,2023-09-18,Arrow Scale Inc,290286,Solid Waste Management Services
+112,68b6346b-6992-41b5-8335-b42873bfe880,WS4040700282,Confidential/Security,2023-09-18,Confidential,73357.5,Confidential
+113,0de54bbb-ded5-4596-b36e-cb4a81795b37,WS4068995886,Bridging Contract,2023-09-14,INDEX CONSTRUCTION INC,400000,"Parks, Forestry & Recreation"
+114,e3f933b6-af25-4001-97b7-0becb79c96c5,WS4068734842,Bridging Contract,2023-09-14,TRIBRO GROUP LTD,400000,"Parks, Forestry & Recreation"
+115,5057b3b7-18aa-4f1c-b35b-48d35c3ee1c8,WS4199754116,Emergency,2023-09-08,SYSCO FOOD SERVICE OF TORONTO INC,205278.18,Long-Term Care Homes & Services
+116,c7cf1f56-4b84-4202-9042-5ad85962b0bc,WS4128611111,Emergency,2023-09-06,SYSCO FOOD SERVICE OF TORONTO INC,499000,Long-Term Care Homes & Services
+117,81280620-323e-4466-b277-e79937324909,WS4051418758,Work Already Completed,2023-09-05,BUY SOCIAL CANADA,25000,"Social Development, Finance & Administration"
+118,cf5bcdb0-e1fa-4d90-bcd6-67a03c2946b7,WS4115444143,Time Constraint,2023-09-04,GHD LIMITED,180000,Toronto Water
+119,e4bb36bc-eaee-400f-9770-a84109c9d784,WS4164620537,Exclusive Rights,2023-09-01,CONNECTIS TECHNOLOGIES INC,2051.09,Public Health
+120,76fb550c-4887-41dc-bbd0-509bdb8ee212,WS3812935474,Exclusive Rights,2023-09-01,ESRI CANADA LTD,294900,Toronto Water
+121,10668fbd-bc96-4a92-bab5-ef4b958afc5e,SR3994185051,Compatible,2023-09-01,Unity Health Toronto,81200,Long-Term Care Homes & Services
+122,a184c590-3109-4ef2-a3c0-5d77a70b9f81,WS4085840007,Compatible,2023-09-01,Formost MediaOne,136847.42,Solid Waste Management Services
+123,6246bca7-a00a-49d4-8ab8-0f4755721014,WS3861500516,Bridging Contract,2023-08-29,LIFELABS LP,50000,Fire Services
+124,fe45dfc6-f4e6-49e8-b0ce-043538cac8df,WS4031969168,Emergency,2023-08-22,SAVE THE CHILDREN CANADA,40000,Public Health
+125,0e4f2ab5-046b-459e-b3c9-00270b49d6fa,SR4058480051,Time Constraint,2023-08-22,R Courier,500000,Public Health
+126,a044a972-ff00-4482-a880-37c2979dea6e,WS4083835059,Bridging Contract,2023-08-22,GOODBYE GRAFFITI INC,218000,Transportation Services
+127,82721965-3724-49e1-b458-4f1163789f55,WS4076948848,Time Constraint,2023-08-17,STRATEGYCORP INC,250000,City Managers Office
+128,673d5f0e-9334-4fd7-ba89-29efdef5828b,WS4113293786,Emergency,2023-08-17,SYSCO FOOD SERVICE OF TORONTO INC,475000,"Shelter, Support & Housing Administration"
+129,8bc8d1f2-49a8-4009-acc5-9fa0e244ce25,WS4117878023,Time Constraint,2023-08-17,ARCHAEOLOGICAL SERVICES INC,206160,City Planning
+130,27ab5efc-6918-4d50-9f6f-4146e9249aad,WS4083740077,Time Constraint,2023-08-14,ERNST & YOUNG LLP,425000,"Parks, Forestry & Recreation"
+131,90b37567-f912-49b0-8368-7953bc438af8,WS4040678108,Compatible,2023-08-14,BRAMIC CREATIVE BUSINESS PRODUCTS,380613.5,Emergency Medical Services
+132,afdae272-01ff-4adb-8014-5488abef5786,WS3976180995,Work Already Completed,2023-08-11,KONE INC,43587.07,Facilities Operations
+133,051cef33-c083-459f-84d0-da06254049fe,WS4011772742,Work Already Completed,2023-08-11,DICKIE MOORE RENTALS,4241.19,Real Estate Services
+134,0494c847-22a8-4d57-be72-ef8d43c98fd3,WS4063736887,Time Constraint,2023-08-02,GM BLUEPLAN ENGINEERING LIMITED,441930,Financial Planning
+135,0efc9d8e-889f-4e68-89ac-5100e4de2510,WS3922252943,Exclusive Rights,2023-08-01,Directrik Inc.,460000,Toronto Water
+136,a3f9095b-ad24-407c-88ff-097f9d34daae,WS3356552062,Exclusive Rights,2023-07-25,VEOLIA WATER TECHNOLOGIES CANADA INC,109719,Toronto Water
+137,e51890e7-baae-4262-9858-84ad70d98a19,WS4051069594,Bridging Contract,2023-07-25,GOODBYE GRAFFITI INC,44764.96,"Parks, Forestry & Recreation"
+138,c2d88a1f-45e1-43c2-a000-0d99836f5fb3,WS3949227157,Bridging Contract,2023-07-25,GOODBYE GRAFFITI INC,60000,Municipal Licensing & Standards
+139,e7eff3ef-e0d4-48d6-b484-8d9b117b3472,WS4093927891,Bridging Contract,2023-07-20,Goodbye Graffiti Inc,25000,Facilities Operations
+140,8b26bf63-4983-4258-8335-0d716687db60,WS3725278336,Compatible,2023-07-10,Enviro EMD Inc,479652.13,Solid Waste Management Services
+141,b4438716-3349-4aff-80e2-f7b22be99dc5,WS4056743532,Bridging Contract,2023-07-07,KAL TIRE,215168,Fleet Services
+142,2a7c6420-04a8-4e7a-9e17-7a31db6b544c,WS4031534512,Bridging Contract,2023-07-04,SWAN DUST CONTROL LIMITED,24000,Real Estate Services
+143,61c1ab81-9f92-412a-adf1-85bae8e1351f,WS3477890624,Time Constraint,2023-07-04,3116895,81000,Fleet Services
+144,48c22bc8-c078-4162-81c7-5f634166b05d,WS3976124917,Time Constraint,2023-07-04,WEST EGG GROUP SECURITY SERVICES INC,250000,Corporate Security
+145,712c71b7-f06d-43b7-9f10-3b7a18316043,WS4053709476,Time Constraint,2023-07-01,Circular Materials,88000,Solid Waste Management Services
+146,746f4e5f-66d8-49c0-8d1d-8ffd6e30d370,SR4044721799,Bridging Contract,2023-07-01,"Taurus Contracting, a Div of TCL Inc.",400000,"Parks, Forestry & Recreation"
+147,8d7cf7ee-fb7f-43fa-82bb-c01067540436,SR4078774648,Bridging Contract,2023-07-01,Arcado Property Maintenance Service Inc.,400000,"Parks, Forestry & Recreation"
+148,8ec01618-65e5-451d-ab84-92940e3308d1,WS4048069287,Compatible,2023-07-01,OPC.TV INC,6000,Long-Term Care Homes & Services
+149,4ef3d8a8-466d-4269-9105-db27440fefb6,WS4015527421,Compatible,2023-06-30,ERNST & YOUNG LLP,284000,City Managers Office
+150,13e334f1-3a43-4951-9d99-0f9154a30124,WS4022041222,Exclusive Rights,2023-06-27,CentralSquare/TriTech Software Systems,77274,Emergency Medical Services
+151,c69d3b3e-f0d4-4c23-9336-40ef23a1b734,SR4023912064,Bridging Contract,2023-06-23,ABLEDOCS INC,79731,"Social Development, Finance & Administration"
+152,0c9d3c58-b95e-43d2-833e-b8de38def007,WS4032062703,Time Constraint,2023-06-20,Midome Construction Services Ltd.,39545000,Transportation Services
+153,04f5958e-f5ca-4812-86ca-2312e627201b,SR4030574707,Confidential/Security,2023-06-20,Confidential,40000,Confidential
+154,4578c5f3-768b-4c66-b658-60ac2badaa68,WS3777622795,Emergency,2023-06-15,GRASCAN CONSTRUCTION LTD TORBRIDGE CONSTRUCTION LTD,3678065.13,Engineering & Construction Services - Engineering Services
+155,3593c2e6-7fce-413d-900f-d47ba8a1b9d9,WS3985725403,Work Already Completed,2023-06-09,Awakened Learning,45090,Solid Waste Management Services
+156,7ebaf4b2-173b-4cfc-b3cf-1daab2c22255,WS3770149289,Competitive Solicitation Unsuccessful,2023-06-07,ACCENTURE INC,98400,"Pension, Payroll & Employee Benefits"
+157,f7940ddd-0811-4901-92ab-ad65f7b81602,WS3846681924,Work Already Completed,2023-06-05,ENTUITIVE CORPORATION,133400,Real Estate Services
+158,e9b1315f-a965-409b-b84a-5bc598062f87,WS3974821943,Bridging Contract,2023-06-05,BUCKLAND CUSTOMS BROKERS LTD,20000,Purchasing & Materials Management
+159,291dce36-ae93-44ba-a7a2-d26ed6d3d4c1,SR4045927944,Competitive Solicitation Unsuccessful,2023-06-01,Attridge Transportation Inc.,310000,"Parks, Forestry & Recreation"
+160,20903e38-5bd0-433e-b880-57af295057fe,WS3915043381,Exclusive Rights,2023-06-01,NEDERMAN CANADA LIMITED,400000,Real Estate Services
+161,a3d5aed1-b161-4455-97e3-427c76fca120,WS3966223854,Exclusive Rights,2023-05-25,Traffic Logix Corp.,97500,Transportation Services
+162,16b8e68a-8e29-4f5a-aff5-c83cfc53661e,SR3999553614,Time Constraint,2023-05-19,AIRD & BERLIS,200000,City Clerks Office
+163,c691832c-464c-4e59-a30c-db2094e61ff6,WS4006730971,Other,2023-05-18,Tenaquip Ltd,71176.02,Solid Waste Management Services
+164,3a2bdd1e-250d-4ffc-8cb9-51d1f4e1d460,SR3853310655,Cost Sharing,2023-05-18,MIDDLESEX-LONDON HEALTH UNIT,55000,Public Health
+165,e593bc0f-8345-4933-9d26-23dfb3825e4c,WS3704136901,Compatible,2023-05-16,GOVAN BROWN & ASSOCIATES LIMITED,47143306,Real Estate Services
+166,af54acf7-9d9a-45ec-a837-8cc1b5fde44b,WS3966137893,Bridging Contract,2023-05-15,Eurasia Canada,79149,Fleet Services
+167,c001c7ca-e90d-4af9-8f9b-2a387cfd292b,WS3934696491,Absence of Competition,2023-05-15,GARTNER CANADA,180900,Information & Technology
+168,c9fef95d-85ef-4f0b-938d-87d79841d8e1,WS3968764661,Bridging Contract,2023-05-15,Sherway Collision,33170,Fleet Services
+169,67dee8a1-3260-4497-9225-03bd9aea98f0,8728,Absence of Competition,2023-05-09,PROXPEDITE INC,100000,"Shelter, Support & Housing Administration"
+170,f84a0971-31c5-4231-8492-19681663a4d5,WS3887350282,Work Already Completed,2023-05-05,EMBASSY SUITES TORONTO AIRPORT,171794,Real Estate Services
+171,95a27235-b998-40e1-ba10-f63705d73861,WS3988497673,Work Already Completed,2023-05-05,MCIS - Multilingual Community Interpreter Services (Ontario),217515.71,"Shelter, Support & Housing Administration"
+172,3734425e-8fde-4019-9034-23af25111925,WS3945410938,Exclusive Rights,2023-05-05,BLOOMFIRE INC,26396,Public Health
+173,fa2b4303-2622-476b-948a-1d2fd4e74e76,WS3932817988,Time Constraint,2023-05-05,UNION ENVIRONMENTAL SOLUTIONS INC,100000,Real Estate Services
+174,a9fb544e-9546-4554-9e24-57b564f808b7,WS3950731419,Exclusive Rights,2023-04-28,Masimo Canada ULC,10848.75,Emergency Medical Services
+175,22840edd-d8bc-4f73-b29c-18aa5b027cba,WS3962341684,Time Constraint,2023-04-27,APPLIED ELECTRONICS LTD,464880.8,Information & Technology
+176,83df37d0-b18e-44d1-813c-7929598e5495,SR3974732705,Bridging Contract,2023-04-27,LINEMANS TESTING LABORATORIES LTD,5000,"Parks, Forestry & Recreation"
+177,3dbcbd6b-96f3-45ee-a99a-7972c372c3d5,WS3826171856,Time Constraint,2023-04-20,SUNSHINE BUILDING MAINTENANCE INC,216000,Real Estate Services
+178,16d4e983-6f4d-482d-9751-2c07d7f82c90,WS3927125817,Work Already Completed,2023-04-17,ONTARIO INFRASTRUCTURE & LANDS CORP LICENSING SERVICES,36547.6,Real Estate Services
+179,8e8d4e54-116e-45f0-a35c-31ad9776a77d,WS3926455377,Compatible,2023-04-14,Deloitte Inc.,180000,"Pension, Payroll & Employee Benefits"
+180,ad466492-9e96-4785-afcd-b280d69f2c56,WS3778035173,Work Already Completed,2023-04-13,SUNNYBROOK RESEARCH INSTITUTE,65000,Long-Term Care Homes & Services
+181,48cdf9a8-a721-49ff-a157-e8e56e6db853,WS3755334964,Exclusive Rights,2023-04-06,KFT Fire Trainers LLC,84931,Fire Services
+182,068e7315-61ad-4181-9d8c-14b540360777,WS3918776268,Absence of Competition,2023-04-05,WORLD COUNCIL ON CITY DATA (WCCD),321555,Chief Financial Officer
+183,48d5378d-b843-4dd9-be49-cb11ec9ace11,SR3933442315,Competitive Solicitation Unsuccessful,2023-04-01,FINANCIAL DEBT RECOVERY LIMITED/GROUPE/TSC,426600,Court Services
+184,b7dcfc19-34d4-4e78-bd87-19d84ef22833,WS3911831632,Competitive Solicitation Unsuccessful,2023-04-01,Trailcon Leasing Inc,169000,Solid Waste Management Services
+185,cb60c40d-e2f1-4a5d-a9af-773dc070ed74,WS3846850221,Work Already Completed,2023-03-30,GAVIN ROTH + ASSOCIATES REVENUE CONSULTANTS INC,4425,Economic Development & Culture
+186,5cf0d471-c234-4dff-a305-d86551085837,WS3865047439,Work Already Completed,2023-03-19,Event Service Staff Co,12139,Toronto Water
+187,77d2d041-ce75-42c5-b76d-b2891c0c1179,WS3833137679,Time Constraint,2023-03-14,IBI GROUP PROFESSIONAL SERVICES CANADA INC,250000,Real Estate Services
+188,780f4594-784d-4252-833a-0869da3edb15,WS3829839889,Exclusive Rights,2023-03-08,FULCRUM MANAGEMENT SOLUTIONS LTD,46200,"Parks, Forestry & Recreation"
+189,37f65e53-cbd1-4f49-b781-0ca9d6857869,WS3298992348,Exclusive Rights,2023-03-08,Resolver Inc.,130050,Corporate Security
+190,caf08fa4-310d-4833-a9ed-095c96374c96,WS3856729992,Compatible,2023-03-08,EGBERTS ENGINEERING LTD.,128500,"Parks, Forestry & Recreation"
+191,61dfeb96-9335-43b0-9ef0-a6aa3c067fa9,WS3541694385,Health & Safety Issues,2023-03-03,LPI MECHANICAL INC,100000,Real Estate Services
+192,0384799f-df69-4780-8a43-f3141424582b,WS3858552303,Exclusive Rights,2023-02-28,"M&L SUPPLY, FIRE & SAFETY",115475,Fire Services
+193,f528100b-0d4d-48e7-87cf-7094c7f8b567,WS3866523962,Exclusive Rights,2023-02-27,MEDALLIA INC.,19995,Information & Technology
+194,06317798-72b2-44d7-b09a-2b7fd2b947e0,WS3800475955,Compatible,2023-02-27,RESOLVER INC,45117,Corporate Security
+195,027f64e1-56b8-48df-a441-2d3b7b5bea5d,WS3789092535,Competitive Solicitation Unsuccessful,2023-02-22,Ontario Sewer Services Inc.,196400,Facilities Operations
+196,6be3cf69-0a7f-4d36-b1b6-9f1fa5a3fd9d,WS3833267594,Time Constraint,2023-02-17,Human Force Inc.,278761,Long-Term Care Homes & Services
+197,acc91697-c2de-4037-9012-ae63ca2e36b7,WS3851537339,Compatible,2023-02-17,PINE VALLEY CORPORATION,23376.96,"Parks, Forestry & Recreation"
+198,5fb5cce8-0920-42d1-8d24-c7ff612551ad,WS3836802978,Bridging Contract,2023-02-17,Black & McDonald,230000,Solid Waste Management Services
+199,e563a718-2bd5-46de-b29b-d646a2d16b25,WS3791811149,Compatible,2023-02-15,Deloitte Inc.,430000,Purchasing & Materials Management
+200,18081d64-e3ac-4411-aadb-1e0163b86c8b,WS3644149033,Exclusive Rights,2023-02-14,Bloomberg LP,73969.14,Finance and Admin
+201,a945be2f-4d74-48fc-975e-73001a3ebdec,WS3797490899,Exclusive Rights,2023-02-14,CARRIER COMMERCIAL SERVICE CARRIER CORPORATION,156583.43,Real Estate Services
+202,d275a62a-f1d2-4246-98b7-522e0298e68e,WS3660228641,Work Already Completed,2023-02-10,AMUSEMENT CONCEPTS PLAY - EXPERTS INC.,3436.73,"Parks, Forestry & Recreation"
+203,abcb49e4-2575-48aa-bee5-43aada01cc8f,WS3822883652,Bridging Contract,2023-02-09,Cardinal Health Canada,499995,Long-Term Care Homes & Services
+204,08164141-db78-42ca-9730-bf0179991603,WS3817254583,Emergency,2023-02-08,Black & McDonald,260296.91,Solid Waste Management Services
+205,1eebe43d-fc25-43ef-8ad9-12bbda4c06e1,WS3704342347,Competitive Solicitation Unsuccessful,2023-02-08,APPLIANCE CANADA INC.,136130,Fire Services
+206,92609158-c480-41aa-9be0-888f4bce6aa1,WS3745177223,Compatible,2023-02-01,Superior Door & Gate Systems Ltd.,100000,Solid Waste Management Services
+207,baac6486-aaa2-4284-9146-3ced363f6b4e,WS3833980220,Time Constraint,2023-01-31,Third Party Inc.,75000,Economic Development & Culture
+208,69b2ecba-2733-4948-b1b8-4209e1350e7b,WS3773237995,Time Constraint,2023-01-24,HIGH CLIFF PARTNERS INC,400400,Finance and Admin
+209,316bf647-df4a-4185-ba6c-d7f9821b546a,WS3718917440,Time Constraint,2023-01-20,MARS DISCOVERY DISTRICT,497000,Environment & Energy Office
+210,8fc347e3-36d6-4f73-9a13-fb863d1f0205,WS3751109544,Work Already Completed,2023-01-19,THE STATE GROUP INC.,254574,Real Estate Services
+211,3b13b909-4c75-4aad-a194-d13f33fc1a5e,WS3756202195,Time Constraint,2023-01-19,NBISIING CONSULTING INC.,150150,Human Resources
+212,cf5a97bd-dc7c-4f88-ab0e-fd3b4559738d,WS3709132199,Competitive Solicitation Unsuccessful,2023-01-19,Watson & Associates Economists Ltd,151734,Transportation Services
+213,cd782649-75bc-47ef-b7d9-2fab785a9ee6,WS3790506297,Emergency,2023-01-17,IBI GROUP PROFESSIONAL SERVICES,218750,Real Estate Services
+214,a77a1499-69d7-457e-8c54-1bef50dc3f58,WS3628139115,Compatible,2023-01-17,KPMG LLP,87205,Revenue Services
+215,630958c7-cfcd-4397-bbe3-eb9d37276c91,WS3587867781,Exclusive Rights,2023-01-13,EVORA IT SOLUTIONS INC,322695.25,Real Estate Services
+216,89715e38-297e-4528-ab6f-efdf3d5264f9,WS3674965351,Compatible,2023-01-09,Bearcom Canada Corporation,97952,Corporate Security
+217,4fdc0318-852e-41ce-b8bb-9dae1b24a4fb,WS3733157750,Work Already Completed,2023-01-05,Dye & Durham Corporation,164.08,Waterfront Secretariat
+218,ef8f62be-d438-4cda-be39-437bbb5c7326,WS3787178800,Time Constraint,2023-01-04,THIRD PARTY PUBLIC INC.,75000,Office of Emergency Management
+219,e1516ff8-5f3b-49cc-90b0-6bea91b531f3,WS3789140699,Time Constraint,2023-01-01,Inline Landscaping & General Contracting Inc.,185000,Facilities Operations
+220,65ecd38c-5334-4040-b657-5800b6669fda,WS3789072048,Exclusive Rights,2023-01-01,ONE STEP SYSTEMS INC,225000,Fire Services
+221,da09533c-8c26-46f3-8040-6706a3efe588,WS3462431168,Time Constraint,2022-12-31,HDR Corporation,173450,Transportation Services
+222,a432220e-95ac-49e8-b3fb-7613389c4115,WS3658269811,Time Constraint,2022-12-23,BROOK RESTORATION LTD,3429768,Real Estate Services
+223,e329501b-0ed6-4025-ad17-dd04ce8a7e33,WS3672439386,Time Constraint,2022-12-23,McIntosh Perry Consulting Engineers,84700,Engineering & Construction Services - Engineering Services
+224,feb8184c-0155-4b88-b31b-237b1f58570a,WS3651574986,Compatible,2022-12-13,GHD Limited,63481,Solid Waste Management Services
+225,67b0897a-61f6-4415-af3b-4503dec620a7,WS3714114972,Time Constraint,2022-12-13,SUSTAINABLE BUILDINGS CANADA,208000,Environment & Energy Office
+226,2dc31e28-f744-4682-bbda-858b1f06e110,WS3749497337,Health & Safety Issues,2022-12-09,Tulip Nurses & Caregivers Inc.,499250,Long-Term Care Homes & Services
+227,849fca28-17e9-4087-9ab5-0a74ff9ae257,WS3476637575,Absence of Competition,2022-12-09,Envirosuite Canada Inc,368550,Solid Waste Management Services
+228,75c4f312-6cba-49b2-b67f-e8a604eeaf4c,WS3778039196,Exclusive Rights,2022-12-08,PHOENIX CENTRE FOR CHILDREN AND FAMILIES,32960,Public Health
+229,d593a5e2-aac2-45cf-b226-54d2de53a171,WS3769940222,Exclusive Rights,2022-12-07,ILOOKABOUT INC,320700,Revenue Services
+230,65025e8b-4e1f-44b2-bf1a-3e2da86753e3,WS4590271834,Compatible,2024-05-30,IMTECH CORPORATION DBA ACTIVU CORP,496313.35,Transportation Services
+231,64285a98-cc64-49d1-91b7-b876a5f25fbc,WS4572428112,Exclusive Rights,2024-05-28,BERRN CONSULTING LTD,2000.00,"Technology Services,Toronto Paramedic Services"
+232,f59324c5-da12-4887-9c2d-c8838c25d152,WS4550865031,Work already completed,2024-05-16,OCEAN MECHANICAL INC,499000.00,Seniors Services & Long Term Care
+233,57de72ca-62b7-49ee-bb32-3f3fabd45162,WS4557896001,Time Constraint,2024-05-14,ORANGUTECH INC,99900.00,"Corporate Real Estate Management,Technology Services"
+234,7ea64456-31f7-4389-a737-056d6ec42a99,WS4572428158,Exclusive Rights,2024-05-14,OpenText,965000.00,Technology Services
+235,3d75ff7f-cd4a-4dec-bba1-cd1ecaf27749,WS4318739348,Work already completed,2024-03-26,NEIL VANDERKRUK HOLDINGS INC,3880.35,"Parks, Forestry & Recreation"
+236,9b9d5437-426e-43ae-8d28-1dd737556636,SR4588169168-WS4601135545,Work already completed,2024-06-24,DYE & DURHAM CORPORATION,"$21,960.19",Municipal Licensing & Standards
+237,e54782ca-a303-4025-a690-198073f9fa9d,SR4519516085 - WS4522109474,Work already completed,2024-06-24,FOUR BY EIGHT SIGN SERVICES INC,"$1,075.00",Toronto Building
+238,501f5b3b-016a-4f93-81ab-b0df18c01c73,SR4591342651 - WS4620011211,Bridging Contract,2024-07-02,JC ROCK LTD,"$669,900","Parks, Forestry & Recreation,Solid Waste Management Services,Toronto Water,Transportation Services"
+239,348c1f4a-a7f7-4c26-adf6-fa34b4fb8f9f,WS4589380868,Bridging Contract,2024-06-28,SUPPLY RITE STEEL INC,"$373,542.50",Transportation Services
