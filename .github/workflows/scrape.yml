@@ -16,7 +16,7 @@ jobs:
           ref: ${{ github.ref }}  # Use the branch or tag ref that triggered the workflow
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'  # Specify the Python version you need
 
