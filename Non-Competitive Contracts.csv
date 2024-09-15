@@ -3,7 +3,7 @@ _id,unique_id,Workspace Number,Reason,Contract Date,Supplier Name,Contract Amoun
 2,a2746fc1-a519-4b6c-bd87-4935e1316269,WS4356452073,Bridging Contract,2024-05-06,E-SAFE PEST CONTROL,"70,000.00","Shelter, Support & Housing Administration"
 3,d5640253-3201-414c-abea-36d2dbd35213,WS4150241752,Work already completed,2024-04-30,"THE ACTIVE NETWORK, LTD.","440,000.00","Parks, Forestry & Recreation,Technology Services"
 4,40c08f4c-16d3-4c1d-b5da-e2fc8e6a4639,SR4496481480 - WS4506186509,Other,2024-04-29,CANADIAN LOCATORS INC,"$440,000.00",Toronto Water
-5,28be0cbd-6cf2-4a88-a28b-515b8c3db5b0,WS4407149512,Work already completed,2024-04-22,"LUTHER, SARA","4,620.00",Economic Development & Culture
+5,28be0cbd-6cf2-4a88-a28b-515b8c3db5b0,WS4407149512 - Duplicate,Work already completed,2024-04-22,"LUTHER, SARA","4,620.00",Economic Development & Culture
 6,c5805a39-ed79-4a01-af19-f1f76fd9a6fc,WS4463319519,Exclusive Rights,2024-04-22,TACEL LTD,"1,486,440.00",Purchasing & Materials Management
 7,835bd480-6285-463f-ad18-3c185bd72ae3,WS4476153624,Competitive solicitation unsuccessful,2024-04-16,HTS ENGINEERING LTD,"109,000.00",Seniors Services and Long-Term Care
 8,ebdcccb7-0202-4169-b1ce-47fc53da459f,WS4442361090,Work already completed,2024-04-05,SANIMAX ABP INC,"6,593.22",Corporate Real Estate Management
@@ -266,3 +266,4 @@ _id,unique_id,Workspace Number,Reason,Contract Date,Supplier Name,Contract Amoun
 265,553c7893-e9df-4b16-981e-b54c3841fab8,WS4543233771,Compatible,2024-08-27,QUADRANGLE ARCHITECTS LIMITED,"26,000.00",Housing Secretariat
 266,667bb268-dbb8-4922-bda3-3493880e7a84,WS4574572437,Other,2024-06-27,SOUTH CENTRAL INC,"1,656,132.80",Corporate Real Estate Management
 267,f9638fe8-38ec-4b01-a071-cc18201362a8,WS4407149512,Work already completed,2024-04-15,"LUTHER, SARA","4,620.00 ",Economic Development & Culture
+268,d3c19b0b-a10f-422d-9f6d-0abc70e25262,WS4688417995,Emergency,2024-09-16,Guild Electric Limited,"254,475.00",Solid Waste Management Services
