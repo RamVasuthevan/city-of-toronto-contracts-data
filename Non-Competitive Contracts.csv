@@ -272,7 +272,7 @@ _id,unique_id,Workspace Number,Reason,Contract Date,Supplier Name,Contract Amoun
 271,5dde32d2-71f4-47a2-8088-e87538b4e6b7,WS4308087785,Bridging Contract,2024-10-15,WORKTANGO CANADA INC.,"95,000.00",People & Equity
 272,f3c56014-778e-42a5-9281-a24f1b133ea6,SR4267385390 - WS4356442481,Time Constraint,2024-10-25,N BARRY LYON CONSULTANTS LTD,"$48,500.00",City Planning
 273,3a630faa-4a68-4bbc-8aee-8ca85204c92b,WS4735745425,Time Constraint,2024-10-25,THIRD PARTY PUBLIC INC,"106,850.00","Shelter, Support & Housing Administration"
-274,a227020d-7e35-41ed-b84b-14bce1642d1c,WS4735587317,Time Constraint,2024-10-25,MIHEVC CONSULTING AND MEDIATION,"79,500.00","Shelter, Support & Housing Administration"
+274,a227020d-7e35-41ed-b84b-14bce1642d1c,WS4735587317,Time Constraint,2024-10-25,MIHEVC CONSULTING AND MEDIATION,"79,500.00","Shelter, Support & Housing Administration,Toronto Shelter and Support Services"
 275,58d0fd49-1dce-440e-b87e-c14371eb7dec,WS4759316507,Work already completed,2024-10-03,ACCENT BUILDING SCIENCES INC.,14473.00,"Parks, Forestry & Recreation"
 276,d6ec05b1-f374-4e36-9004-662dd1caf0c9,WS4757457988,Emergency,2024-10-03,VISIONTEC (2008) LTD,54120.00,Fire Services
 277,bb6cd0a5-dbe0-4563-a917-ce193bea2921,WS4690160401,Compatible,2024-09-23,ACTIVE MECHANICAL SERVICES,112930.00,Fire Services
@@ -280,3 +280,4 @@ _id,unique_id,Workspace Number,Reason,Contract Date,Supplier Name,Contract Amoun
 279,500b607b-d1c1-43c1-a2a6-6e044c3acfb5,WS4757458032,Work already completed,2024-09-06,UNDERWRITERS LABORATORIES OF CANADA INC,661.11,Corporate Real Estate Management
 280,4f505a9e-81c1-4984-ad33-e3cd326b4b39,WS4705873026,Emergency,2024-09-05,Brook Restoration Ltd,185491.20,Corporate Real Estate Management
 281,31c03f50-5200-4680-b03d-537c3556f1f6,WS4833531372,Cost Sharing,2024-10-31,COINAMATIC COMMERCIAL LAUNDRY INC,"133,559.20 ",Seniors Services and Long-Term Care
+282,7794591b-b8d1-42f1-816b-c4c80d20f136,WS4880587589,Time Constraint,2024-11-25,2526976 ONTARIO LTD DBA PUBLIC PROGRESS,"199,330.00","Shelter, Support & Housing Administration"
