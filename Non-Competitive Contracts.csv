@@ -338,3 +338,33 @@ _id,unique_id,Workspace Number,Reason,Contract Date,Supplier Name,Contract Amoun
 337,1f338fe3-fde9-44be-880a-2b5cc9d93417,WS4160912826,Time Constraint,2023-11-21,IDEASPACE CONSULTING INC,"164,705",Housing Secretariat,"355 BURRARD ST, SUITE 570;VANCOUVER;BC;V6C 2G8;CANADA"
 338,95c9b606-a30d-48f5-8d4c-3c58dd674433,2307688,Health & Safety Issue,2025-04-08,INLAND LIFERAFTS & MARINE LTD,"235,000.00",Fire Services,140 HUNT ST;AJAX;Ontario; L1S 1P5;Canada
 339,be58bc98-52df-4c84-9695-ad22a7b38546,SR5060252618 - CW2307593,Bridging Contract,2025-05-01,FANCHEM LTD DBA PVS BENSON,"$498,000.00",Toronto Water,1012 GORE RD;FREELTON;ON;L8B 0Z5;Canada
+340,8ec4b2cb-ed48-4367-ae37-7f8e86b57bd5,CW2307928,Bridging Contract,2025-05-01,CARDINAL HEALTH CANADA INC,499999.95,Seniors Services & Long Term Care,1000 TESMA WAY;VAUGHAN;CA-ON;L4K 5R8;Canada
+341,837dc3af-f3de-4a85-a609-86303ad1e6d9,CW2307840,Absence of competition,2025-04-17,GOATS IN THE CITY,21676.00,Parks and Recreation,6 Queens Own Lane;King City;CA-ON;L7B 1K4;Canada
+342,c8adc4b4-ae9d-4db7-975b-956e5167c3df,CW2307593,Bridging Contract,2025-04-01,FANCHEM LTD DBA PVS BENSON,498000.00,Toronto Water,1012 GORE RD;FREELTON;CA-ON;L8B 0Z5;Canada
+343,26ce3c00-f31f-4a3d-acbc-d3eaec9dfaf1,CW2307206,Emergency,2025-03-28,1623052 ONTARIO LIMITED O/A CB SALES CANADA,432950.00,Toronto Water,85 WANLESS AVE;TORONTO;CA-ON;M4N 1V8;Canada
+344,17393ba5-045f-401e-9f1d-5bb1c850f2e7,CW2307706,Compatible,2025-03-13,KPMG LLP,95000.00,Development Review,"333 BAY ST, SUITE 4600;TORONTO;CA-ON;M5H 2S5;Canada"
+345,1a19ab73-baa1-450c-9a65-777910c3ae02,CW2307286,Confidential/Security,2025-03-11,Confidential,11500.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+346,7826d77c-f867-4900-8e81-a72bed76be13,CW2307581,Confidential/Security,2025-03-07,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+347,77d644dc-6b36-477e-96b9-e48265afa596,CW2307711,Other,2025-03-07,ROCKPORT YONGE AND MANOR INC.,911790.00,Transportation Services,"170 THE DONWAY W, UNIT 307;TORONTO;CA-ON;M3C 2G3;Canada"
+348,69b04f73-5f77-41de-8b0d-69c45ff0cc5a,CW2307243,Confidential/Security,2025-03-04,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+349,d10708d2-152a-4ff8-b5bb-59924594efb1,CW2307476,Competitive solicitation unsuccessful,2025-03-03,THOMPSON MACHINE SHOP A DIVISION OF461657 ONTARIO LIMITED,92440.00,Fleet Services,150 YONGE;Burks Falls;CA-ON;P0A 1C0;Canada
+350,e48c4ec5-83b6-448e-af90-cd42b2cf3617,CW2307812,Bridging Contract,2025-02-28,BELCO SAFETY PRODUCTS LTD,20000.00,Toronto Water,"1515 MATHESON BLVD, UNIT C13;MISSISSAUGA;CA-ON;L4W 2P5;Canada"
+351,56888572-4fa1-435c-be57-84520672ffab,CW2307119,Confidential/Security,2025-02-26,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+352,5fe5cafb-9653-411c-820e-987a057fc13b,CW2307117,Confidential/Security,2025-02-26,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+353,19b6a9c2-f82a-4970-ae79-4b857c8cd64a,CW2308374,Exclusive Rights,2025-02-25,PRIORITY DISPATCH,1311936.00,Toronto Paramedic Services,"110 SOUTH REGENT ST, STE 500;SALT LAKE CITY;US-UT;84111;United States"
+354,94fc1a9a-a5b5-46bc-8ca5-c39642ed5329,CW2307788,Time Constraint,2025-02-25,QUEENS UNIVERSITY FINANCIAL,71955.00,Seniors Services & Long Term Care,355 KING ST W;KINGSTON;CA-ON;K7L 3N6;Canada
+355,681c9110-b4f1-4ba9-a364-4e97dbfe1e18,CW2307183,Confidential/Security,2025-02-21,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+356,539d4986-8edb-4c0c-8bbe-b549b246de4c,CW2307187,Confidential/Security,2025-02-21,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+357,da300c1f-52b0-4b02-a7c2-2ed019c16996,CW2307178,Confidential/Security,2025-02-20,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+358,7caf1866-5c37-480e-988d-60e48b0c1165,CW2307621,Work already completed,2025-02-19,BILT RITE DISPOSAL EQUIPMENT,2444.94,Corporate Real Estate Management,143 Industrial Road;BOLTEN;CA-ON;L7E 1K5;Canada
+359,655c133f-dc2c-4731-8bac-441e90697626,CW2307111,Confidential/Security,2025-02-18,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+360,69dd124a-3003-4ca1-a22f-7efa070bf000,CW2307113,Confidential/Security,2025-02-13,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+361,ce084544-df07-44c7-aa14-695241450d4b,CW2307115,Confidential/Security,2025-02-13,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+362,872c3ad6-50ff-49ad-bedf-5e8d9db2c290,CW2307188,Exclusive Rights,2025-02-12,CUMMINS CANADA ULC,250758.00,Fire Services,7175 PACIFIC CIRCLE;MISSISSAUGA;CA-ON;L5T 2A5;Canada
+363,14af5bbc-fcf2-4c35-8eb9-1d63bdf95ffb,CW2307149,Confidential/Security,2025-02-03,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+364,932a5155-8699-459d-8936-d5a4b0c4389b,CW2307130,Confidential/Security,2025-01-16,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+365,16eec6a2-0464-44a9-8bb4-dc32714b45a7,CW2307099,Confidential/Security,2024-12-05,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+366,ac7ac4c3-1f4b-4e1d-a60b-425cd6c628d7,CW2307102,Confidential/Security,2024-12-05,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+367,8bdaaa6e-f0af-4c21-a647-28fad6a0dbbe,CW2308375,Work of Art,2024-11-19,QUIIN HOPKINS LIAM,255000.00,Economic Development & Culture,"430 RONCESVALLES AVE, #403;TORONTO;CA-ON;M6R 0A6;Canada"
+368,b228566a-6e41-46e9-9856-fbd52d8999a7,CW2307203,Confidential/Security,2024-10-09,Confidential,120000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
+369,668aa71b-634c-4c6d-91e4-a75575e099d8,CW2307201,Confidential/Security,2024-09-27,Confidential,75000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
