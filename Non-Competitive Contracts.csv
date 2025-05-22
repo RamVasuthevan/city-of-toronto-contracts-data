@@ -352,7 +352,7 @@ _id,unique_id,Workspace Number,Reason,Contract Date,Supplier Name,Contract Amoun
 351,56888572-4fa1-435c-be57-84520672ffab,CW2307119,Confidential/Security,2025-02-26,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
 352,5fe5cafb-9653-411c-820e-987a057fc13b,CW2307117,Confidential/Security,2025-02-26,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
 353,19b6a9c2-f82a-4970-ae79-4b857c8cd64a,CW2308374,Exclusive Rights,2025-02-25,PRIORITY DISPATCH,1311936.00,Toronto Paramedic Services,"110 SOUTH REGENT ST, STE 500;SALT LAKE CITY;US-UT;84111;United States"
-354,94fc1a9a-a5b5-46bc-8ca5-c39642ed5329,CW2307788,Time Constraint,2025-02-25,QUEENS UNIVERSITY FINANCIAL,71955.00,Seniors Services & Long Term Care,355 KING ST W;KINGSTON;CA-ON;K7L 3N6;Canada
+354,94fc1a9a-a5b5-46bc-8ca5-c39642ed5329,CW2307788,Time Constraint,2025-02-25,QUEENS UNIVERSITY FINANCIAL,71955.00,Seniors Services and Long-Term Care,355 KING ST W;KINGSTON;CA-ON;K7L 3N6;Canada
 355,681c9110-b4f1-4ba9-a364-4e97dbfe1e18,CW2307183,Confidential/Security,2025-02-21,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
 356,539d4986-8edb-4c0c-8bbe-b549b246de4c,CW2307187,Confidential/Security,2025-02-21,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
 357,da300c1f-52b0-4b02-a7c2-2ed019c16996,CW2307178,Confidential/Security,2025-02-20,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
@@ -370,3 +370,4 @@ _id,unique_id,Workspace Number,Reason,Contract Date,Supplier Name,Contract Amoun
 369,668aa71b-634c-4c6d-91e4-a75575e099d8,CW2307201,Confidential/Security,2024-09-27,Confidential,75000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
 370,21987215-eab0-488a-b624-f546cf674209,SR4915118382 - CW2307168,Work already completed,2025-05-09,THIRD PARTY PUBLIC INC,"28,325.00",City Planning,"401 RICHMOND ST W, SUITE 392;TORONTO;ON;M5V 3A8;Canada"
 371,b90405fd-7046-4d71-9139-32b01512583a,CW2307701,Exclusive Rights,2025-05-05,Draeger Safety Canada Limited,"$296,889.39",Fire Services,"2425 Skymark Ave., Unit 1;Mississauga;ON;L4W 4Y6;Canada"
+372,1aefcfc9-abdf-4631-aa41-36d9652d0f4b,WS4965661008,Confidential/Security,2025-02-13,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
