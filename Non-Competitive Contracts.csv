@@ -1,10 +1,10 @@
 _id,unique_id,Workspace Number,Reason,Contract Date,Supplier Name,Contract Amount,Division,Supplier Address
 1,184af5eb-bc47-4d4d-b23a-f39bfcbeeaba,WS4846502106,Work of Art,2025-06-11,"SOULE, JASON (JAY)","265,000.00",Economic Development & Culture,"16 LAIDLAW ST, UNIT 922;Toronto;ON;M6K 1X2;Canada"
-2,a63b0ee9-7c43-498e-8ba1-bdbb25860090,CW2308602,Bridging Contract,2025-06-09,Enveloppe Laurentide Inc.,"$190,000.00",City Clerk's Office,1875 Boul Industriel;Magoc;Quebec;J1X 5N4;Canada
+2,a63b0ee9-7c43-498e-8ba1-bdbb25860090,CW2308602,Bridging Contract,2025-06-09,Enveloppe Laurentide Inc.,"$190,000.00","City Clerk's Office,City Clerks",1875 Boul Industriel;Magoc;Quebec;J1X 5N4;Canada
 3,72219e02-71c0-4cbc-8814-5538ef8df6a1,CW2307585,Time Constraint,2025-06-02,RJ BURNSIDE & ASSOCIATES LTD,"$261,600.00",City Planning,15 TOWNLINE ;ORANGEVILLE ;ON;L9W 3R4;CA
 4,ffbf0e31-e6ed-4820-8ae4-7d5449ae81ef,CW2307588,Time Constraint,2025-05-21,ENTUITIVE CORPORATION,"261,600.00",City Planning,"120 BREMNER BLVD, 4TH FLR ;TORONTO;ON ;M5J 0A8;CA"
 5,4df88b3a-99cb-4634-872d-eea46d7e6301,CW2307580,Time Constraint,2025-05-21,ARCADIS PROFESSIONAL SERVICES (CANADA) INC,"261,600.00",City Planning,"55 ST CLAIR AVE W, 7TH FLR;Toronto;ON;M4V 2Y7;CA"
-6,d8d6f309-96d2-49bf-9e34-5c434bfb03e0,CW2308360,Competitive solicitation unsuccessful,2025-05-21, FUTURE SYSTEMS INC,"477,664.85",Transportation Services,"110 EGLINTON AVE W, SUITE 305;TORONTO;ONTARIO;M4R 1A3;CANADA"
+6,d8d6f309-96d2-49bf-9e34-5c434bfb03e0,CW2308360,Competitive solicitation unsuccessful,2025-05-21,FUTURE SYSTEMS INC.,"447,664.85",Transportation Services,120 EGLINTON AVE E  SUITE 1100;TORONTO;CA-ON;M4P 1E2;Canada
 7,21987215-eab0-488a-b624-f546cf674209,SR4915118382 - CW2307168,Work already completed,2025-05-09,THIRD PARTY PUBLIC INC,"28,325.00",City Planning,"401 RICHMOND ST W, SUITE 392;TORONTO;ON;M5V 3A8;Canada"
 8,26f280ed-2b93-4a64-ab89-a4b1ee10d838,CW2308582,Exclusive Rights,2025-05-08,ABELDENT INC,346425.32,Public Health,3310 SOUTH SERVICE RD;BURLINGTON;CA-ON;L7N 3M6;Canada
 9,b90405fd-7046-4d71-9139-32b01512583a,CW2307701,Exclusive Rights,2025-05-05,Draeger Safety Canada Limited,"$296,889.39",Fire Services,"2425 Skymark Ave., Unit 1;Mississauga;ON;L4W 4Y6;Canada"
@@ -48,7 +48,7 @@ _id,unique_id,Workspace Number,Reason,Contract Date,Supplier Name,Contract Amoun
 47,e75e720e-f7c2-4d7a-8411-ec40e398b725,WS4953152816,Compatible,2025-02-03,SAP CANADA INC,666180.00,Technology Services,"222 BAY ST, SUITE 2000, PO BOX 41;TORONTO;CA-ON;M5K 1B7;Canada"
 48,14af5bbc-fcf2-4c35-8eb9-1d63bdf95ffb,CW2307149,Confidential/Security,2025-02-03,Confidential,500000.00,Confidential,Confidential;Confidential;Confidential;Confidential;Confidential
 49,edab48a1-f057-40e0-9030-1cbce1ae71e5,WS4976820145,Bridging Contract,2025-02-01,Sure General Contractors Inc,"65,000",Municipal Licensing & Standards,215 Midwest Rd;Toronto;ON;M1P 3A6;Canada
-50,5ee9a67b-f5f4-405e-9f11-dbf33b447c30,CW2308897,Exclusive Rights,2025-01-31,PRIME MOVER CONTROLS INC.,109170.00,"Parks, Forestry & Recreation",3600 GILMORE WAY;BURNABY;CA-BC;V5G 4R8;Canada
+50,5ee9a67b-f5f4-405e-9f11-dbf33b447c30,CW2308897,Exclusive Rights,2025-01-31,PRIME MOVER CONTROLS INC.,"109,170.00","Parks, Forestry & Recreation,Parks and Recreation",3600 GILMORE WAY;BURNABY;CA-BC;V5G 4R8;Canada
 51,69aa551c-da73-4959-9963-f0dbb0ce3ff3,CW2308469,Health & Safety Issue,2025-01-29,Met-Scan Canada Ltd,125000.00,Corporate Real Estate Management,30 Kern Road;Toronto;Ontario;M3B 1T1;Canada
 52,ca5ba606-da66-47e8-8c51-7727f52c9415,CW2308473,Work already completed,2025-01-27,JMX ENVIRONMENTAL INC.,256305.00,Corporate Real Estate Management,1958 NOTION RD;PICKERING;CA-ON;L1V 2G3;Canada
 53,f945c7d0-8bc3-4020-943b-6b5f61e38500,WS4714280283,Compatible,2025-01-24,Computacenter Canada Inc.,"$442,478.00",Housing Secretariat,"1130 Morrison Dr., Suite 105;Ottawa;ON;K2H 9N6;Canada"
