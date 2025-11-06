@@ -213,7 +213,7 @@ _id,unique_id,Workspace Number,Reason,Contract Date,Supplier Name,Contract Amoun
 212,af5ff35e-a932-428d-8d06-9bfd2f8d75cd,CW2310108,Work of Art,2025-09-16,Mosaika Art & Design,"$176,800",Economic Development & Culture,"MOSAIKA ART AND DESIGN INC. 4095 ST URBAIN ST ;MONTREAL, ;QC;H2W 1V4;Canada"
 213,d22adda2-8f65-4559-8fef-a1a09b28d41f,CW2309090,Emergency,2025-09-11,JOEL THEATRICAL RIGGING CONTRACTORS (1980) LTD,"898,448.18",Corporate Real Estate Management,7151 EDWARDS BLVD;MISSISSAUGA;ON;L5S 1Z2;Canada
 214,6d958729-1131-4623-b0f8-ffabacf2ded5,CW2309890,Other,2025-09-09,ALIGNED VISION GROUP INC,"359,014.00",Corporate Real Estate Management,"161 ALDEN RD, UNIT 6;MARKHAM;Ontario;L3R 3W7;Canada"
-215,6c5f10f2-51c3-4f34-9355-f7ea6cac9ca5,CW2310212,Other,2025-09-02,HD SOURCE INC,"191,625.50",Corporate Real Estate Management,"288 JUDSON ST, UNIT4;TORONTO;ON;M8Z 5T6;Canada"
+215,6c5f10f2-51c3-4f34-9355-f7ea6cac9ca5,CW2310212,Other,2025-09-02,HD SOURCE INC,191625,Corporate Real Estate Management,"288 JUDSON ST, UNIT4;TORONTO;ON;M8Z 5T6;Canada"
 216,3fdc3a11-eec8-4a60-a8bd-3efe341fc26e,CW2310073,Other,2025-09-02,CHRISTIE LITES SALES,"219,739.19",Corporate Real Estate Management,"1545 BRITANNIA ROAD E, UNITS 11-12;Mississauga;ON;L4W 3C6;Canada"
 217,d10d91dc-39b9-41cf-b893-d4909a6cbdc9,CW2309687,Other,2025-09-02,AVSHOP.CA,"54,322.66",Corporate Real Estate Management,"235 HOOD RD, # 1;MARKHAM;ON;L3R 4N3;Canada"
 218,ec2ef1be-116e-4baf-a001-8e07ca86e336,CW2310042,Other,2025-09-02,CHRISTIE LITES SALES,"240,903.74",Corporate Real Estate Management,"1545 BRITANNIA ROAD E, UNITS 11-12;MISSISSAUGA;ON;L4W 3C6;Canada"
@@ -228,3 +228,5 @@ _id,unique_id,Workspace Number,Reason,Contract Date,Supplier Name,Contract Amoun
 227,b91f010f-3bc6-4e8d-bd90-f28e31d582af,CW2311025,Other,2025-10-10,NEPTUNE TECHNOLOGY GROUP (CANADA) LTD,54920500,Toronto Water,7275 WEST CREDIT AVE;MISSISSAUGA;ON;L5N 5M9;CA
 228,2ef4df05-5bf6-478c-8729-9eedf3e95f45,CW2311066,Time Constraint,2025-10-14,"	 BLAKE,CASSELS & GRAYDON LLP",165000,"City Manager's Office,Legal Services","199 BAY ST, #4000, COMMERCE CRT W ;TORONTO;ON;M5L 1A9;Canada"
 229,a68fe35d-c1ea-4249-a40a-984980ea1ca0,CW2311812,Absence of competition,2025-09-29,Crean Consulting,25000,Ombudsman Toronto,"2343 Moran Street, ;HALIFAX;NS;B3K 4K1;Canada"
+230,c97e854e-a823-4250-9f93-29eb5f1eb1af,CW2311620,Time Constraint,2025-10-17,JSSCOMMUNICATIONS,15500,Strategic Communications,19 Appaloosa Trail;Carlisle;Ontario;L0R 1H3;Canada
+231,b5470697-bd2c-4513-9ab6-32c32bc419ec,CW2310814,Work already completed,2025-05-29,AUTUMN EAGLESPEAKER,2250,Purchasing & Materials Management,1715 31 AVE SW;CALGARY;Alberta;T2T 1S6;Canada
