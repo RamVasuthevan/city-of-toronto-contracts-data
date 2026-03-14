@@ -2850,9 +2850,10 @@ _id,Workspace Number,Reason,Contract Date,Supplier Name,Contract Amount,Division
 2849,CW2307149,Confidential/Security,2025-02-03,Confidential,500000.00,Confidential,,None
 2850,SR4058480051,Time Constraint,2023-08-22,R Courier,500000,Public Health,,None
 2851,WS4115444143,Time Constraint,2023-09-04,GHD LIMITED,180000,Toronto Water,,None
-2852,WS4367074491,Time Constraint,2024-03-04,EN VILLE EVENT DESIGN & CATERING INC.,4048.53,Economic Development & Culture,,None
-2853,CW2309131,Bridging Contract,2025-07-15,ACKLANDS-GRAINGER INC,"3,053,675 ","Corporate Real Estate Management,Fire Services,Fleet Services,Office of Emergency Management,Parks, Forestry & Recreation,Purchasing & Materials Management,Solid Waste Management Services,Toronto Paramedic Services,Toronto Water",,None
-2854,SR3994185051,Compatible,2023-09-01,Unity Health Toronto,81200,Long-Term Care Homes & Services,,None
-2855,CW2308961,Work already completed,2025-06-09,INFINIGUARD SECURITY AND PROTECTION SERVICES INC.,5112.00,Corporate Real Estate Management,,None
-2856,WS4227371038,Health & Safety Issue,2024-02-27,YUMMY CATERING SERVICES INC,150000.00,Toronto Shelter and Support Services,,None
-2857,WS4223365692,Bridging Contract,2024-01-12,APPLEWOOD ROOFING & SHEET METAL LTD,"371,612.75",Corporate Real Estate Management,,None
+2852,CW2313683,Bridging Contract,2026-02-26,UNIT 11 INC,162783,Economic Development & Culture,,None
+2853,WS4367074491,Time Constraint,2024-03-04,EN VILLE EVENT DESIGN & CATERING INC.,4048.53,Economic Development & Culture,,None
+2854,CW2309131,Bridging Contract,2025-07-15,ACKLANDS-GRAINGER INC,"3,053,675 ","Corporate Real Estate Management,Fire Services,Fleet Services,Office of Emergency Management,Parks, Forestry & Recreation,Purchasing & Materials Management,Solid Waste Management Services,Toronto Paramedic Services,Toronto Water",,None
+2855,SR3994185051,Compatible,2023-09-01,Unity Health Toronto,81200,Long-Term Care Homes & Services,,None
+2856,CW2308961,Work already completed,2025-06-09,INFINIGUARD SECURITY AND PROTECTION SERVICES INC.,5112.00,Corporate Real Estate Management,,None
+2857,WS4227371038,Health & Safety Issue,2024-02-27,YUMMY CATERING SERVICES INC,150000.00,Toronto Shelter and Support Services,,None
+2858,WS4223365692,Bridging Contract,2024-01-12,APPLEWOOD ROOFING & SHEET METAL LTD,"371,612.75",Corporate Real Estate Management,,None
